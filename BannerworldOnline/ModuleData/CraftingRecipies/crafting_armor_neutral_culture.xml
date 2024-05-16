@@ -1,0 +1,11 @@
+<Recipies>
+	<Tier1Craftings>
+		10*PE_merchants_hat*1=pe_linen*2,pe_iron_ingot*4|10*PE_half_apron*1=pe_linen*5|10*PE_leather_apron*1=pe_linen*2,pe_iron_ingot*5|10*PE_ladys_shoe*1=pe_linen*2|10*PE_leather_shoes*1=pe_linen*1,pe_iron_ingot*2|10*PE_leather_gloves*1=pe_linen*2,pe_iron_ingot*4|10*PE_padded_vambrace*1=pe_linen*4|10*PE_female_hood*1=pe_linen*4|10*PE_scarf*1=pe_linen*4|10*PE_wrapped_scarf*1=pe_linen*4|10*PE_female_scarf*1=pe_linen*4
+	</Tier1Craftings>
+	<Tier2Craftings>
+		10*PE_cloth_apron*1=pe_cloth*5|10*PE_merchants_fur_coat*1=pe_cloth*2,pe_steel_ingot*5|10*PE_ragged_boots*1=pe_cloth*2|10*PE_strapped_shoes*1=pe_cloth*2|10*PE_empire_cape_a*1=pe_cloth*4
+	</Tier2Craftings>
+	<Tier3Craftings>
+		
+	</Tier3Craftings>
+</Recipies>

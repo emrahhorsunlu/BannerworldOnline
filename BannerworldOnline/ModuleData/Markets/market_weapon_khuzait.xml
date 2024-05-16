@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		pe_buildhammer*0*0|PE_fishing_rod*0*0|PE_peasant_pickaxe_1_t1*0*0|PE_peasant_hatchet_1_t1*0*0|PE_peasant_sickle_1_t1*0*0|pe_doctorscalpel*0*0|PE_wooden_2hsword_t1*0*0|PE_practice_spear_t1*0*0|PE_small_spurred_axe_t2*0*0|PE_simple_sparth_axe_t2*0*0|PE_simple_pike_t2*0*0|PE_khuzait_sword_1_t2*0*0|PE_falchion_sword_t2*0*0|PE_simple_sabre_sword_t2*0*0|PE_simple_back_sword_t2*0*0|PE_bastard_sword_t2*0*0|PE_khuzait_mace_1_t2*0*0|PE_steppe_bow*0*0|PE_vlandic_arrows*0*0|PE_steppe_arrows*0*0|PE_barbed_arrows*0*0|PE_eastern_wicker_shield*0*0
+	</Tier1Items>
+	<Tier2Items>
+		PE_tzkurion_axe_t3*0*0|PE_large_franziskaa_axe_t3*0*0|PE_bearded_axe_t3*0*0|PE_eastern_spear_2_t3*0*0|PE_eastern_spear_3_t3*0*0|PE_eastern_throwing_spear_1_t3*0*0|PE_triangluar_spear_t3*0*0|PE_military_fork_pike_t3*0*0|PE_khuzait_lance_2_t4*0*0|PE_khuzait_sword_2_t3*0*0|PE_khuzait_sword_3_t3*0*0|PE_star_falchion_sword_t3*0*0|PE_broad_falchion_sword_t3*0*0|PE_broad_ild_sword_t3*0*0|PE_short_sword_t3*0*0|PE_narrow_sword_t3*0*0|PE_cleaver_sword_t3*0*0|PE_cleaver_2hsword_t3*0*0|PE_light_mace_t3*0*0|PE_steel_mace_t3*0*0|PE_morningstar_mace_t3*0*0|PE_composite_bow*0*0|PE_composite_steppe_bow*0*0|PE_steppe_heavy_bow*0*0|PE_bodkin_arrows_a*0*0|PE_footmans_wicker_shield*0*0
+	</Tier2Items>
+	<Tier3Items>
+		PE_battle_axe_t4*0*0|PE_eastern_throwing_spear_2_t4*0*0|PE_wide_leaf_spear_t4*0*0|PE_eastern_spear_5_t5*0*0|PE_fine_pike_t4*0*0|PE_thamaskene_pike_t4*0*0|PE_khuzait_lance_3_t5*0*0|PE_khuzait_noble_sword_1_t5*0*0|PE_khuzait_noble_sword_2_t5*0*0|PE_khuzait_noble_sword_3_t5*0*0|PE_ridged_2hsword_t4*0*0|PE_war_razor_2hsword_t4*0*0|PE_khuzait_mace_2_t4*0*0|PE_khuzait_mace_3_t4*0*0|PE_eastern_steel_mace_t4*0*0|PE_khuzait_mace_4_t5*0*0|PE_steppe_war_bow*0*0|PE_noble_bow*0*0|PE_noble_long_bow*0*0|PE_piercing_arrows*0*0|PE_stronger_reinforced_kite_shield*0*0|PE_fortified_kite_shield*0*0
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_weapon_crate_t1*1*1
+	</CraftingBoxes>
+</Market>

@@ -1,0 +1,31 @@
+<Module>
+    <Name value="Bannerworld Online"/>
+    <Id value="BW_Module"/>
+    <Version value="v1.1.6"/>
+	<ModuleCategory value="Multiplayer"/>
+	<DependedModules>
+        <DependedModule Id="PersistentEmpires" DependentVersion="v1.2.8.0" Optional="false"/>
+      </DependedModules>
+    <DependedModuleMetadatas>
+        <DependedModuleMetadata Id="PersistentEmpires" Order="LoadBeforeThis" Version="v1.2.8.0" />
+    </DependedModuleMetadatas>
+        <!-- The following SubModule element is optional. You can remove this portion if your mod does not have a DLL associated with it. -->
+		<Xmls>
+		
+		<XmlNode>
+			<XmlName id="Items" path="bw_animals" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		
+		<XmlNode>
+			<XmlName id="Items" path="pe_weapons" />
+			<IncludedGameTypes>
+				<GameType value="MultiplayerGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+		
+  </Xmls>
+    
+</Module>

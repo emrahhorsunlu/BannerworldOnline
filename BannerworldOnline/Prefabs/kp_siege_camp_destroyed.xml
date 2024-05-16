@@ -1,0 +1,1908 @@
+<prefabs>
+	<game_entity mobility="1" old_prefab_name="" name="kp_siege_camp_destroyed">
+		<children>
+			<game_entity mobility="1" old_prefab_name="" name="siege_soil_detail_c">
+				<components>
+					<meta_mesh_component name="siege_soil_detail_c"/>
+				</components>
+				<physics shape="bo_siege_soil_detail_c"/>
+				<transform rotation_euler="0.000, 0.000, -0.777" position="-8.586, -19.979, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_soil_detail_a">
+				<components>
+					<meta_mesh_component name="siege_soil_detail_a"/>
+				</components>
+				<physics shape="bo_siege_soil_detail_b"/>
+				<transform position="-10.293, 2.672, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_soil_detail_e">
+				<components>
+					<meta_mesh_component name="siege_soil_detail_e"/>
+				</components>
+				<physics shape="bo_siege_soil_detail_e"/>
+				<transform position="-8.327, 12.516, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_soil_detail_b">
+				<components>
+					<meta_mesh_component name="siege_soil_detail_b"/>
+				</components>
+				<physics shape="bo_siege_soil_detail_b"/>
+				<transform position="10.189, -18.312, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_soil_detail_c">
+				<components>
+					<meta_mesh_component name="siege_soil_detail_c"/>
+				</components>
+				<physics shape="bo_siege_soil_detail_c"/>
+				<transform rotation_euler="0.000, 0.000, -1.663" position="13.803, -15.578, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="forest_ruinous_tree_c">
+				<components>
+					<meta_mesh_component name="forest_ruinous_tree_c"/>
+				</components>
+				<physics shape="bo_forest_ruinous_tree_c"/>
+				<transform position="7.781, 7.791, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="ruinous_castle_stone_heap_b">
+				<components>
+					<meta_mesh_component name="ruinous_castle_stone_heap_b"/>
+				</components>
+				<physics shape="bo_ruinous_castle_stone_heap_b"/>
+				<transform rotation_euler="0.000, 0.000, -0.579" position="1.532, -10.492, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+				<components>
+					<particle_system_instanced_component>
+						<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+					</particle_system_instanced_component>
+				</components>
+				<transform position="3.191, -22.064, 0.580"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+				<components>
+					<particle_system_instanced_component>
+						<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+					</particle_system_instanced_component>
+				</components>
+				<transform position="-10.973, 7.246, 0.444"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_d">
+				<components>
+					<meta_mesh_component name="bd_wood_heap_d"/>
+				</components>
+				<physics shape="bo_bd_wood_heap_d"/>
+				<transform rotation_euler="0.000, 0.000, -1.660" position="2.158, 17.584, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="battania_storage_wood_d">
+				<children>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -2.262" position="-3.860, 2.492, -0.091"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.045, 0.017, -0.980" position="-0.921, -3.208, -0.264"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_a">
+						<components>
+							<meta_mesh_component name="brushwood_a"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, -1.427" position="-0.014, 5.755, 0.002"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_b">
+						<components>
+							<meta_mesh_component name="brushwood_b"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, -2.392" position="-1.882, 4.595, 0.014"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_c">
+						<components>
+							<meta_mesh_component name="brushwood_c"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, -0.373" position="-4.175, 3.435, 0.018"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_d">
+						<components>
+							<meta_mesh_component name="brushwood_d"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, -0.373" position="-5.187, 1.379, 0.019"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_e">
+						<components>
+							<meta_mesh_component name="brushwood_e"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 0.777" position="-5.444, -2.120, 0.012"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_f">
+						<components>
+							<meta_mesh_component name="brushwood_f"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 0.777" position="-2.015, -5.066, 0.010"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_e">
+						<components>
+							<meta_mesh_component name="brushwood_e"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 0.777" position="5.764, 1.363, -0.016"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_c">
+						<components>
+							<meta_mesh_component name="brushwood_c"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 0.777" position="0.945, -4.577, 0.004"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_b">
+						<components>
+							<meta_mesh_component name="brushwood_b"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 0.777" position="4.194, -2.686, -0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_c">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_c"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.137, -0.190, 1.237" position="3.565, -2.710, 0.086"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_heap_a"/>
+						<transform rotation_euler="0.164, 0.259, -0.272" position="3.834, -1.611, 0.205"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_e">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_e"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_e"/>
+						<transform rotation_euler="0.000, 0.000, -2.826" position="3.363, -0.005, 0.285"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="-0.818, -2.754, 1.300" position="1.546, 3.700, 0.634"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.571, -0.449, -1.406" position="1.039, 3.992, 0.470"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.000, 0.413, -2.435" position="-3.983, -0.541, 0.593"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.574" position="-4.162, -0.526, 0.028"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="-0.155, 0.216, 1.973" position="-1.531, -2.626, 0.736"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_heap_a"/>
+						<transform rotation_euler="0.616, 0.629, -2.152" position="-1.500, 1.047, 1.820"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_b">
+						<components>
+							<meta_mesh_component name="wooden_platform_b"/>
+						</components>
+						<physics shape="bo_wooden_platform_a"/>
+						<transform rotation_euler="0.000, -0.019, -2.547" position="-0.980, 1.086, -0.318"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, 3.001" position="3.200, 2.623, -0.131"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.732, 0.000, -0.834" position="0.547, -0.538, 1.843"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, 1.406" position="2.060, 3.361, -0.195"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -2.213" position="-3.081, -2.183, -0.437"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_d">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_d"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.000, 0.000, -2.110" position="-1.582, 3.310, -0.086"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_d">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_d"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="0.029, 0.614, -2.473" position="-3.904, -0.879, 0.489"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_d">
+						<components>
+							<meta_mesh_component name="wooden_platform_plank_d"/>
+						</components>
+						<physics shape="bo_wooden_platform_plank_a"/>
+						<transform rotation_euler="-0.021, -0.044, 2.400" position="-1.394, -1.101, 3.097"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_heap_a"/>
+						<transform rotation_euler="0.000, 0.521, 2.382" position="1.437, 0.593, 1.811"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, 2.225" position="-2.182, 1.706, 0.121"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -2.257" position="3.351, 3.318, -0.357"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -2.948" position="0.355, -3.417, -0.442"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -2.948" position="1.458, -2.512, -0.231"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, 0.980" position="1.522, -1.966, -0.033"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.260, -0.306, 2.899" position="-1.182, -1.983, 1.279"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.179, -1.011, 1.228" position="-2.247, -1.876, 1.069"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.042, 0.629, 2.434" position="1.584, 1.607, 0.822"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.369, -0.912, -0.443" position="-1.129, -0.126, 1.552"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.169, 0.100, -0.484" position="0.931, 3.644, -0.383"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.471, 0.429, -0.691" position="3.756, 1.643, -0.197"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.558, 0.000, 3.096" position="0.548, 2.934, -0.261"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.558, 0.000, 3.096" position="-0.147, 1.516, 1.197"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="-0.151, 0.067, 1.948" position="-0.871, 1.410, -0.151"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="-0.146, -0.431, 0.701" position="2.062, 2.143, -0.004"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -1.129" position="2.818, 2.787, -0.008"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_a">
+						<components>
+							<meta_mesh_component name="brushwood_a"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 1.914" position="5.084, -0.678, -0.016"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_a">
+						<components>
+							<meta_mesh_component name="brushwood_a"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, -2.624" position="5.169, -0.640, -0.016"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_a">
+						<components>
+							<meta_mesh_component name="brushwood_a"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 2.563" position="-1.506, -4.180, 0.015"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="brushwood_a">
+						<components>
+							<meta_mesh_component name="brushwood_a"/>
+						</components>
+						<transform rotation_euler="0.000, 0.000, 1.390" position="0.938, -3.824, 0.259"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.999, -1.762, 2.537" position="1.167, -0.980, 1.090"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.078, -0.113, 2.706" position="3.664, 0.154, 0.955"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.131, 0.040, -2.311" position="-1.306, -2.238, -0.133"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.199, 3.095, 0.043" position="-2.277, -2.248, 0.653"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.077, 0.016, 1.745" position="-4.093, -0.024, -0.432"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.193, 0.087, 0.541" position="1.513, -1.903, 1.181"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="-0.419, -0.425, 2.026" position="-0.764, -2.450, 0.546"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, -0.128" position="-1.773, -1.780, 0.020"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -0.241" position="-1.121, -1.142, 1.586"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -0.733" position="-2.665, -0.322, 0.025"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, 0.489" position="3.114, -0.466, -0.007"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -1.231" position="0.456, -1.481, 0.009"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, 0.785" position="7.657, -13.387, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="LV_castle_plank_wall_c_Destroyed">
+				<children>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform rotation_euler="0.000, 0.000, -0.579" position="2.384, -0.748, -0.729"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+						<components>
+							<particle_system_instanced_component>
+								<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+							</particle_system_instanced_component>
+						</components>
+						<transform position="-2.130, 0.520, 0.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 3.052" position="-0.431, -1.003, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform position="-0.049, -1.065, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -3.000" position="1.768, -0.846, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.618, -0.561, 6.958"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.499, -0.487, 4.249"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.083" position="-2.581, -0.542, 1.531"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.698, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.017" position="3.760, -0.500, 6.906"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.720, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.018" position="3.702, -0.514, 4.252"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.646, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.016" position="3.684, -0.506, 1.519"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, 0.074" position="-0.273, 4.968, 0.170"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform position="0.072, 7.904, 0.164"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.995" position="-2.500, 1.359, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.100" position="2.820, 1.520, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.498" position="-1.106, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.422" position="-1.766, 4.076, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.653, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.570, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.244, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.180, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.639" position="1.305, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.749" position="2.600, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.666" position="1.827, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="2.815, -0.669, 4.465"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.596, -0.669, 4.256"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.423, -0.669, 4.491"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.206, -0.669, 4.490"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.034, -0.669, 4.724"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.339, -0.232, -1.102" position="2.020, -0.261, 0.686"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.256, -0.172, -0.336" position="-1.851, 0.597, 2.946"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-1.726, -0.669, 3.905"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.116, -0.669, 4.468"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.896, -0.669, 4.070"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.506, -0.669, 4.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.320, -0.669, 4.630"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.709, -0.669, 4.352"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, 1.594" position="-16.084, -13.441, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="LV_European_Bakery_Destroyed_Fixed">
+				<children>
+					<game_entity season_mask="251" mobility="1" old_prefab_name="" name="siege_fire_particle_a">
+						<children>
+							<game_entity mobility="1" old_prefab_name="" name="fire_light">
+								<components>
+									<light_component shadow_radius="8.000" shadow_size_multiplier="1" falloff_angle="45.000" hotspot_angle="30.000" local_frame_rot="10.000001, 0.000000, 0.000000, 0.000000, 10.000001, 0.000000, 0.000000, 0.000000, 10.000001" flicker_magnitude="1.000" flicker_interval="0.500" radius="10.000" intensity="300.000" color="1.000, 0.522, 0.133"/>
+								</components>
+								<transform position="-0.180, 1.584, 2.137"/>
+							</game_entity>
+						</children>
+						<components>
+							<particle_system_instanced_component>
+								<effect_ref base_effect="{4107079C-E7CC-41BF-89F4-5FDDA5F7202A}"/>
+							</particle_system_instanced_component>
+						</components>
+						<transform position="0.257, 0.033, 6.480"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+						<components>
+							<particle_system_instanced_component>
+								<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+							</particle_system_instanced_component>
+						</components>
+						<transform position="4.054, -7.878, 0.629"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform rotation_euler="0.000, 0.000, 1.211" position="-5.283, -3.215, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<transform position="1.516, -2.650, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_c">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_c"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_c"/>
+						<transform position="-2.519, 5.336, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_b"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_b"/>
+						<transform position="6.323, -3.790, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform position="0.023, 1.054, 0.000"/>
+					</game_entity>
+					<game_entity occlusion_body_name="bo_occ_module_wall_village_vlandia_a" mobility="1" old_prefab_name="" name="module_wall_village_vlandia_a">
+						<components>
+							<meta_mesh_component name="module_wall_village_vlandia_a"/>
+						</components>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<physics shape="bo_module_wall_village_vlandia_a"/>
+						<transform position="-3.977, -0.090, -1.966"/>
+					</game_entity>
+					<game_entity occlusion_body_name="bo_occ_module_wall_village_vlandia_a" mobility="1" old_prefab_name="" name="module_wall_village_vlandia_a">
+						<components>
+							<meta_mesh_component name="module_wall_village_vlandia_a"/>
+						</components>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<physics shape="bo_module_wall_village_vlandia_a"/>
+						<transform position="4.730, -0.178, -1.966"/>
+					</game_entity>
+					<game_entity occlusion_body_name="bo_occ_module_wall_village_vlandia_a" mobility="1" old_prefab_name="" name="module_wall_village_vlandia_c">
+						<components>
+							<meta_mesh_component name="module_wall_village_vlandia_c"/>
+						</components>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<physics shape="bo_module_wall_village_vlandia_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.557" position="0.573, 3.637, -1.974"/>
+					</game_entity>
+					<game_entity occlusion_body_name="bo_occ_module_wall_village_vlandia_b" mobility="1" old_prefab_name="" name="module_wall_village_vlandia_d">
+						<components>
+							<meta_mesh_component name="module_wall_village_vlandia_d"/>
+						</components>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<physics shape="bo_module_wall_village_vlandia_b"/>
+						<transform scale="1.000, 1.215, 1.000" rotation_euler="0.000, 0.000, 1.552" position="2.158, -3.973, 0.067"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 2.200" rotation_euler="-0.005, 1.104, 1.582" position="0.673, -7.081, 0.867"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -1.411, 0.000" position="5.005, 3.796, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -0.958, 3.141" position="-4.004, 3.784, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="1.173, 2.480, 3.141" position="5.005, -3.290, 1.424"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.275, -0.662, 3.141" position="-4.004, -1.365, 0.988"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="-0.275, 0.000, 0.000" position="2.217, -1.624, -0.106"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -1.671, 0.000" position="5.005, -5.737, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -0.835, 0.000" position="5.005, 2.000, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -0.662, 3.141" position="-4.004, 0.263, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -0.662, 0.000" position="5.005, 0.274, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -0.662, 3.141" position="-4.004, 1.988, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="0.000, -1.557, 3.141" position="-4.004, -5.749, 1.003"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_plank_f_column">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_plank_f_column"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_plank_f_column"/>
+						<transform scale="1.000, 1.000, 1.400" rotation_euler="-1.173, 2.481, 0.001" position="-4.004, -3.286, 1.412"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_e">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_e"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_e"/>
+						<transform rotation_euler="0.000, 0.000, 0.830" position="5.899, 2.196, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_fence_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_fence_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_fence_a"/>
+						<transform rotation_euler="0.000, 0.000, -0.192" position="6.272, -9.706, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_f">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_f"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_f"/>
+						<transform rotation_euler="0.000, 0.000, -1.746" position="3.509, -7.813, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_f">
+						<components>
+							<meta_mesh_component name="bd_wood_heap_f"/>
+						</components>
+						<physics shape="bo_bd_wood_heap_f"/>
+						<transform rotation_euler="0.000, 0.000, 2.302" position="-5.684, 2.009, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -0.655" position="7.684, -6.739, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -0.535" position="6.890, -7.815, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="wooden_platform_2_heap_a">
+						<components>
+							<meta_mesh_component name="wooden_platform_2_heap_a"/>
+						</components>
+						<physics shape="bo_wooden_platform_2_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -1.089" position="7.619, -7.064, 0.266"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="ruinous_castle_stone_heap_a">
+						<components>
+							<meta_mesh_component name="ruinous_castle_stone_heap_a"/>
+						</components>
+						<physics shape="bo_ruinous_castle_stone_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -0.134" position="1.322, -5.381, 0.000"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, -1.087" position="-14.004, 8.245, 0.000"/>
+				<flags>
+					<flag value="true" name="record_to_scene_replay"/>
+				</flags>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="LV_castle_plank_wall_c_Destroyed">
+				<children>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform rotation_euler="0.000, 0.000, -0.579" position="2.384, -0.748, -0.729"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+						<components>
+							<particle_system_instanced_component>
+								<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+							</particle_system_instanced_component>
+						</components>
+						<transform position="-2.130, 0.520, 0.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 3.052" position="-0.431, -1.003, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform position="-0.049, -1.065, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -3.000" position="1.768, -0.846, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.618, -0.561, 6.958"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.499, -0.487, 4.249"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.083" position="-2.581, -0.542, 1.531"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.698, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.017" position="3.760, -0.500, 6.906"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.720, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.018" position="3.702, -0.514, 4.252"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.646, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.016" position="3.684, -0.506, 1.519"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, 0.074" position="-0.273, 4.968, 0.170"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform position="0.072, 7.904, 0.164"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.995" position="-2.500, 1.359, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.100" position="2.820, 1.520, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.498" position="-1.106, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.422" position="-1.766, 4.076, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.653, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.570, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.244, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.180, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.639" position="1.305, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.749" position="2.600, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.666" position="1.827, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="2.815, -0.669, 4.465"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.596, -0.669, 4.256"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.423, -0.669, 4.491"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.206, -0.669, 4.490"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.034, -0.669, 4.724"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.339, -0.232, -1.102" position="2.020, -0.261, 0.686"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.256, -0.172, -0.336" position="-1.851, 0.597, 2.946"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-1.726, -0.669, 3.905"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.116, -0.669, 4.468"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.896, -0.669, 4.070"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.506, -0.669, 4.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.320, -0.669, 4.630"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.709, -0.669, 4.352"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, 0.189" position="0.665, -22.635, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="LV_castle_plank_wall_c_Destroyed">
+				<children>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform rotation_euler="0.000, 0.000, -0.579" position="2.384, -0.748, -0.729"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="siege_fire_particle_b">
+						<components>
+							<particle_system_instanced_component>
+								<effect_ref base_effect="{2A697910-47CA-4D47-A0B4-80E419234DCA}"/>
+							</particle_system_instanced_component>
+						</components>
+						<transform position="-2.130, 0.520, 0.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 3.052" position="-0.431, -1.003, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform position="-0.049, -1.065, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_a"/>
+						</components>
+						<physics override_material="stone" shape="bo_european_castle_wall_a_damaged_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, -3.000" position="1.768, -0.846, -2.119"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.618, -0.561, 6.958"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.088" position="-2.499, -0.487, 4.249"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, -3.083" position="-2.581, -0.542, 1.531"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.698, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.017" position="3.760, -0.500, 6.906"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.720, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.018" position="3.702, -0.514, 4.252"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform scale="0.646, 1.000, 1.000" rotation_euler="0.000, 0.000, 0.016" position="3.684, -0.506, 1.519"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform rotation_euler="0.000, 0.000, 0.074" position="-0.273, 4.968, 0.170"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_b">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_b"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_b"/>
+						<transform position="0.072, 7.904, 0.164"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.995" position="-2.500, 1.359, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="european_castle_wall_a_damaged_l1_heap_a">
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_l1_heap_a"/>
+						</components>
+						<physics override_material="wood" shape="bo_european_castle_wall_a_damaged_l1_heap_a"/>
+						<transform rotation_euler="0.000, 0.000, 1.100" position="2.820, 1.520, 0.000"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.498" position="-1.106, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.422" position="-1.766, 4.076, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.653, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.570, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="-0.244, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.547" position="0.180, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.639" position="1.305, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.749" position="2.600, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.992, -1.542, -1.666" position="1.827, 4.085, 0.011"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="2.815, -0.669, 4.465"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.596, -0.669, 4.256"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.423, -0.669, 4.491"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="3.206, -0.669, 4.490"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="4.034, -0.669, 4.724"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.339, -0.232, -1.102" position="2.020, -0.261, 0.686"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="-0.256, -0.172, -0.336" position="-1.851, 0.597, 2.946"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-1.726, -0.669, 3.905"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.116, -0.669, 4.468"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.896, -0.669, 4.070"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-2.506, -0.669, 4.587"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.320, -0.669, 4.630"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="log_pine_m">
+						<components>
+							<meta_mesh_component name="log_pine_m"/>
+						</components>
+						<physics shape="bo_log_pine_m"/>
+						<transform scale="1.000, 1.000, 2.000" rotation_euler="0.000, 0.000, -0.579" position="-3.709, -0.669, 4.352"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, 2.004" position="6.083, 11.729, 0.000"/>
+			</game_entity>
+			<game_entity mobility="1" old_prefab_name="" name="Siege_camp">
+				<children>
+					<game_entity mobility="1" old_prefab_name="" name="mat_fur_b">
+						<components>
+							<meta_mesh_component name="mat_fur_b"/>
+						</components>
+						<physics override_material="straw"/>
+						<transform rotation_euler="0.000, 0.000, 2.154" position="-11.000, 3.323, -0.123"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="bd_table_aserai_tavern_b">
+						<children>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_plate_grape">
+								<components>
+									<meta_mesh_component name="kitchen_plate_grape"/>
+								</components>
+								<transform rotation_euler="0.367, -0.237, 1.018" position="-0.975, 1.451, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_pitcher_a">
+								<components>
+									<meta_mesh_component name="kitchen_pitcher_a"/>
+								</components>
+								<transform rotation_euler="-1.445, 0.000, -0.617" position="1.291, 1.619, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_pitcher_a">
+								<components>
+									<meta_mesh_component name="kitchen_pitcher_a"/>
+								</components>
+								<transform rotation_euler="-1.325, 0.000, -1.935" position="-0.076, 1.576, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_mug_b">
+								<components>
+									<meta_mesh_component name="kitchen_mug_b"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.018" position="1.040, 1.839, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_mug_b">
+								<components>
+									<meta_mesh_component name="kitchen_mug_b"/>
+								</components>
+								<transform rotation_euler="1.423, 0.000, 0.018" position="1.143, 2.120, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_mug_b">
+								<components>
+									<meta_mesh_component name="kitchen_mug_b"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.018" position="-0.766, 1.849, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_garlic_c">
+								<components>
+									<meta_mesh_component name="kitchen_garlic_c"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.130" position="-0.687, 1.690, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_garlic_c">
+								<components>
+									<meta_mesh_component name="kitchen_garlic_c"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.130" position="1.151, 1.456, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_food_leek">
+								<components>
+									<meta_mesh_component name="kitchen_food_leek"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.645" position="0.916, 1.759, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_food_bread_c_slice">
+								<components>
+									<meta_mesh_component name="kitchen_food_bread_c_slice"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, 0.018" position="0.708, 1.751, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_food_bread_c_slice">
+								<components>
+									<meta_mesh_component name="kitchen_food_bread_c_slice"/>
+								</components>
+								<transform rotation_euler="0.000, 0.000, -1.941" position="0.218, 1.958, 0.000"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="kitchen_bowl_fish">
+								<components>
+									<meta_mesh_component name="kitchen_bowl_fish"/>
+								</components>
+								<transform rotation_euler="-0.099, 3.142, -2.773" position="1.095, 1.213, 0.021"/>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_table_c">
+								<components>
+									<meta_mesh_component name="bd_table_c"/>
+								</components>
+								<physics override_material="wood" shape="bo_bd_table_c"/>
+								<transform rotation_euler="-1.359, 0.000, -0.058" position="0.413, -0.186, 0.454"/>
+							</game_entity>
+						</children>
+						<transform rotation_euler="0.000, 0.000, -2.668" position="-12.542, 5.634, -0.123"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="battania_storage_wood_c">
+						<children>
+							<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_d">
+								<components>
+									<meta_mesh_component name="wooden_platform_plank_d"/>
+								</components>
+								<physics shape="bo_wooden_platform_plank_a"/>
+								<transform rotation_euler="0.000, 0.000, 2.711" position="2.396, -7.009, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="wooden_platform_plank_a">
+								<components>
+									<meta_mesh_component name="wooden_platform_plank_a"/>
+								</components>
+								<physics shape="bo_wooden_platform_plank_a"/>
+								<transform rotation_euler="0.000, 0.000, 0.796" position="-0.985, -0.792, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="wooden_platform_heap_a">
+								<components>
+									<meta_mesh_component name="wooden_platform_heap_a"/>
+								</components>
+								<physics shape="bo_wooden_platform_heap_a"/>
+								<transform rotation_euler="0.000, 0.000, -2.801" position="-2.987, -1.058, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="barn_fence_c">
+								<components>
+									<meta_mesh_component name="barn_fence_c"/>
+								</components>
+								<physics override_material="wood" shape="bo_barn_fence_c"/>
+								<transform rotation_euler="0.000, 0.000, -1.048" position="-2.342, -1.505, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, -1.373" position="2.005, -6.945, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform scale="0.639, 0.639, 0.639" rotation_euler="0.000, 0.000, -2.901" position="-0.003, -3.816, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="merchandise_wooden_stick">
+								<components>
+									<meta_mesh_component name="merchandise_wooden_stick"/>
+								</components>
+								<physics shape="bo_merchandise_wooden_stick"/>
+								<transform rotation_euler="0.000, 0.000, -2.580" position="-5.604, -1.882, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, 1.807" position="7.446, -6.111, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, -1.610" position="4.618, -6.583, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, -2.325" position="7.737, -5.236, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, 1.107" position="7.741, -6.704, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, -1.452" position="2.569, -6.242, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_c">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_c"/>
+								</components>
+								<physics shape="bo_bd_wood_heap_c"/>
+								<transform rotation_euler="0.000, 0.000, 1.569" position="1.579, -5.828, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_c">
+								<components>
+									<meta_mesh_component name="bd_wood_c"/>
+								</components>
+								<physics override_material="wood"/>
+								<transform rotation_euler="0.000, 0.000, 2.326" position="0.113, -4.896, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+							<game_entity mobility="1" old_prefab_name="" name="bd_wood_heap_b">
+								<components>
+									<meta_mesh_component name="bd_wood_heap_b"/>
+								</components>
+								<physics override_material="wood" shape="bo_bd_wood_heap_b"/>
+								<transform rotation_euler="0.000, 0.000, -1.449" position="3.134, -10.138, 0.000"/>
+								<flags>
+									<flag value="true" name="align_rotation_to_terrain"/>
+									<flag value="true" name="align_to_terrain"/>
+								</flags>
+							</game_entity>
+						</children>
+						<transform rotation_euler="0.000, 0.000, -0.584" position="9.632, 8.265, -0.123"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="tent_vlandia_a">
+						<children>
+							<game_entity mobility="1" old_prefab_name="" name="ambient_sound_emitter">
+								<scripts>
+									<script name="AmbientSoundEmitter">
+										<variables>
+											<variable value="Sphere" name="Trigger Shape"/>
+											<variable value="true" name="Is Triggered"/>
+											<variable value="false" name="Is Master Supressor"/>
+											<variable value="false" name="Is Master Sound"/>
+											<variable value="Speakers" name="Sound Preset"/>
+											<variable value="1.000000" name="Overrided Min Distance"/>
+											<variable value="20.000000" name="Overrided Max Distance"/>
+											<variable value="false" name="Override Sound"/>
+											<variable value="false" name="Is Static"/>
+											<variable value="true" name="Play On Startup"/>
+											<variable value="event:/mission/ambient/area/interior/generic" name="Event Path"/>
+										</variables>
+									</script>
+								</scripts>
+								<transform scale="3.710, 0.987, 0.408" rotation_euler="0.000, 0.000, 0.000"/>
+							</game_entity>
+						</children>
+						<components>
+							<meta_mesh_component name="tent_vlandia_a"/>
+						</components>
+						<physics shape="bo_tent_vlandia_a"/>
+						<transform rotation_euler="0.000, 0.000, 0.151" position="-11.591, 3.883, -0.151"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="castle_plank_wall_c">
+						<components>
+							<meta_mesh_component name="castle_plank_wall_c"/>
+						</components>
+						<physics override_material="wood" shape="bo_castle_plank_wall_c"/>
+						<transform rotation_euler="0.000, 0.000, -1.825" position="18.160, -7.042, -5.224"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="castle_plank_wall_c">
+						<components>
+							<meta_mesh_component name="castle_plank_wall_c"/>
+						</components>
+						<physics override_material="wood" shape="bo_castle_plank_wall_c"/>
+						<transform rotation_euler="0.000, 0.000, -1.236" position="17.754, 1.252, -5.200"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="castle_plank_wall_c">
+						<components>
+							<meta_mesh_component name="castle_plank_wall_c"/>
+						</components>
+						<physics override_material="wood" shape="bo_castle_plank_wall_c"/>
+						<transform rotation_euler="0.000, 0.000, 0.782" position="-17.424, 7.743, -5.123"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="castle_plank_wall_c">
+						<components>
+							<meta_mesh_component name="castle_plank_wall_c"/>
+						</components>
+						<physics override_material="wood" shape="bo_castle_plank_wall_c"/>
+						<transform rotation_euler="-0.278, 0.000, 2.810" position="-13.594, -13.691, -7.410"/>
+					</game_entity>
+					<game_entity mobility="1" old_prefab_name="" name="castle_plank_wall_c">
+						<components>
+							<meta_mesh_component name="castle_plank_wall_c"/>
+						</components>
+						<physics override_material="wood" shape="bo_castle_plank_wall_c"/>
+						<transform rotation_euler="0.000, 0.000, 0.169" position="-1.665, 13.001, -5.253"/>
+					</game_entity>
+				</children>
+				<transform rotation_euler="0.000, 0.000, 1.678" position="-4.882, -1.867, 0.123"/>
+				<tags>
+					<tag name="destructable_entity"/>
+				</tags>
+				<flags>
+					<flag value="true" name="record_to_scene_replay"/>
+				</flags>
+			</game_entity>
+		</children>
+		<scripts>
+			<script name="PE_RepairableDestructableComponent">
+				<variables>
+					<variable value="" name="NavMeshPrefabName"/>
+					<variable value="2000.000" name="MaxHitPoint"/>
+					<variable value="true" name="IsBroken"/>
+					<variable value="50" name="RepairDamage"/>
+					<variable value="pe_wooden_stick*1" name="RepairItemRecipies"/>
+					<variable value="false" name="AlwaysEffectOnDestroy"/>
+					<variable value="true" name="DestroyedByStoneOnly"/>
+					<variable value="event:/mission/combat/impact/metal_weapon/wood_shield" name="SoundEffectOnRepair"/>
+					<variable value="dust_fall_a" name="ParticleEffectOnRepair"/>
+					<variable value="event:/mission/siege/generic/wood_destroy" name="SoundEffectOnDestroy"/>
+					<variable value="psys_game_ballista_weapon_destroy" name="ParticleEffectOnDestroy"/>
+					<variable value="10" name="RequiredEngineeringSkillForRepair"/>
+					<variable value="pe_buildhammer" name="RepairItem"/>
+					<variable value="destructable_entity" name="ReferenceEntityTag"/>
+					<variable value="ruinous_battania_castle_stone_heap_b" name="DestructionState"/>
+				</variables>
+			</script>
+		</scripts>
+		<transform rotation_euler="0.000, 0.000, 0.000" position="45.765, 350.628, 0.000"/>
+		<flags>
+			<flag value="true" name="record_to_scene_replay"/>
+		</flags>
+	</game_entity>
+</prefabs>
+

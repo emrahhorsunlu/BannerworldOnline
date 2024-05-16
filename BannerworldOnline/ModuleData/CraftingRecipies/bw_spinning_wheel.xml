@@ -1,0 +1,11 @@
+<Recipies>
+    <Tier1Craftings>
+        1*pe_linen*2=pe_merchandise_flax*1
+    </Tier1Craftings>
+    <Tier2Craftings>
+        2*pe_linen*10=pe_merchandise_flax*5
+    </Tier2Craftings>
+    <Tier3Craftings>
+        3*pe_linen*20=pe_merchandise_flax*10
+    </Tier3Craftings>
+</Recipies>

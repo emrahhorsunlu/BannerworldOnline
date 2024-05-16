@@ -1,0 +1,473 @@
+<prefabs>
+	<game_entity name="BW_aserai_woodcutter" old_prefab_name="" mobility="1">
+		<flags>
+			<flag name="record_to_scene_replay" value="true"/>
+		</flags>
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<scripts>
+			<script name="PE_UpgradeableBuildings">
+				<variables>
+					<variable name="CastleIndex" value="-1"/>
+					<variable name="BuildingName" value="Wood Cutter"/>
+					<variable name="Tier0Tag" value="tier0"/>
+					<variable name="Tier1Tag" value="tier1"/>
+					<variable name="Tier2Tag" value="tier2"/>
+					<variable name="Tier3Tag" value="tier3"/>
+					<variable name="BuildingInteractiveTag" value="chest"/>
+					<variable name="Tier1RequiredEngineering" value="10"/>
+					<variable name="Tier2RequiredEngineering" value="20"/>
+					<variable name="Tier3RequiredEngineering" value="30"/>
+					<variable name="Tier1MaxHit" value="300"/>
+					<variable name="Tier2MaxHit" value="600"/>
+					<variable name="Tier3MaxHit" value="1200"/>
+					<variable name="Tier1UpgradeReceipts" value="pe_hardwood*100,pe_wooden_stick*200,pe_stone*50"/>
+					<variable name="Tier2UpgradeReceipts" value="pe_scroll*2,pe_hardwood*200,pe_wooden_stick*400,pe_stone*100,pe_clay*25"/>
+					<variable name="Tier3UpgradeReceipts" value="pe_book*3,pe_wooden_plank*400,pe_stone*200,pe_clay*50"/>
+					<variable name="ParticleEffectOnUpgrade" value="dust_fall_a"/>
+					<variable name="SoundEffectOnUpgrade" value="event:/mission/combat/impact/metal_weapon/wood_shield"/>
+					<variable name="BuildItem" value="pe_buildhammer"/>
+					<variable name="Tier1CraftingEngineering" value="10"/>
+					<variable name="Tier2CraftingEngineering" value="10"/>
+					<variable name="Tier3CraftingEngineering" value="10"/>
+					<variable name="MaxHitPoint" value="200.000"/>
+					<variable name="NavMeshPrefabName" value=""/>
+				</variables>
+			</script>
+		</scripts>
+		<children>
+			<game_entity name="tier1" old_prefab_name="" mobility="1">
+				<tags>
+					<tag name="tier1"/>
+				</tags>
+				<transform position="3.774, -0.897, 0.000"/>
+				<children>
+					<game_entity name="tent_aserai_a" old_prefab_name="" mobility="1">
+						<transform position="-1.051, 0.249, 0.000" rotation_euler="0.000, 0.000, -1.595" scale="0.898, 1.235, 1.385"/>
+						<physics shape="bo_tents_aserai_a"/>
+						<components>
+							<meta_mesh_component name="tents_aserai_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_c" old_prefab_name="" mobility="1">
+						<transform position="-1.644, 5.321, 0.000" rotation_euler="0.000, 0.000, -0.168" scale="0.727, 0.727, 0.727"/>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_a" old_prefab_name="" mobility="1">
+						<transform position="-2.341, -3.573, 0.000" rotation_euler="0.000, 0.000, -0.897"/>
+						<physics shape="bo_bd_wood_heap_a" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="shop_prop_merchantcarpenter_a" old_prefab_name="" mobility="1">
+						<transform position="2.870, -0.183, 0.000" rotation_euler="0.000, 0.000, -1.577"/>
+						<physics shape="bo_shop_prop_merchantcarpenter_a"/>
+						<components>
+							<meta_mesh_component name="shop_prop_merchantcarpenter_a"/>
+						</components>
+						<scripts>
+							<script name="PE_CraftingStation">
+								<variables>
+									<variable name="StationName" value="Carpenter Bench"/>
+									<variable name="ModuleFolder" value="BW_Module"/>
+									<variable name="Animation" value=""/>
+									<variable name="CraftingRecieptTag" value="bw_woodcutter"/>
+									<variable name="RelevantSkillId" value="Engineering"/>
+									<variable name="Distance" value="3.000"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="bd_log_and_axe" old_prefab_name="" mobility="1">
+						<transform position="2.021, 3.568, 0.037" rotation_euler="0.000, 0.000, -3.021"/>
+						<physics shape="bo_bd_log_and_axe" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_log_and_axe"/>
+						</components>
+					</game_entity>
+					<game_entity name="log_tree_high_group_d" old_prefab_name="" mobility="1">
+						<transform position="-5.861, 3.663, 0.000" rotation_euler="0.000, 0.000, 0.070"/>
+						<physics shape="bo_log_tree_high_group_d"/>
+						<components>
+							<meta_mesh_component name="log_tree_high_group_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_c" old_prefab_name="" mobility="1">
+						<transform position="1.357, -4.822, 0.000" rotation_euler="0.000, 0.000, 0.028"/>
+						<physics override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_c"/>
+						</components>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="tier2" old_prefab_name="" visible="false" mobility="1">
+				<tags>
+					<tag name="tier2"/>
+				</tags>
+				<transform position="4.608, -0.524, 0.000"/>
+				<children>
+					<game_entity name="aserai_village_barn_a" old_prefab_name="" mobility="1" occlusion_body_name="bo_occ_aserai_village_barn_a">
+						<transform position="-2.103, -0.273, 0.000" rotation_euler="0.000, 0.000, -1.589" scale="0.763, 0.949, 0.844"/>
+						<physics shape="bo_aserai_village_barn_a"/>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<components>
+							<meta_mesh_component name="aserai_village_barn_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.909, 2.960, 2.323" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_a" old_prefab_name="" mobility="1">
+						<transform position="-4.944, -5.193, 0.000" rotation_euler="0.000, 0.000, -0.897"/>
+						<physics shape="bo_bd_wood_heap_a" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="shop_prop_merchantcarpenter_a" old_prefab_name="" mobility="1">
+						<transform position="0.214, -1.031, 0.000" rotation_euler="0.000, 0.000, -1.577"/>
+						<physics shape="bo_shop_prop_merchantcarpenter_a"/>
+						<components>
+							<meta_mesh_component name="shop_prop_merchantcarpenter_a"/>
+						</components>
+						<scripts>
+							<script name="PE_CraftingStation">
+								<variables>
+									<variable name="StationName" value="Carpenter Bench"/>
+									<variable name="ModuleFolder" value="BW_Module"/>
+									<variable name="Animation" value=""/>
+									<variable name="CraftingRecieptTag" value="bw_woodcutter"/>
+									<variable name="RelevantSkillId" value="Engineering"/>
+									<variable name="Distance" value="3.000"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="bd_log_and_axe" old_prefab_name="" mobility="1">
+						<transform position="-0.635, 2.720, 0.037" rotation_euler="0.000, 0.000, -3.021"/>
+						<physics shape="bo_bd_log_and_axe" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_log_and_axe"/>
+						</components>
+					</game_entity>
+					<game_entity name="log_tree_high_group_d" old_prefab_name="" mobility="1">
+						<transform position="-8.441, -4.288, 0.000" rotation_euler="0.000, 0.000, 0.070"/>
+						<physics shape="bo_log_tree_high_group_d"/>
+						<components>
+							<meta_mesh_component name="log_tree_high_group_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_c" old_prefab_name="" mobility="1">
+						<transform position="0.055, -5.724, 0.000" rotation_euler="0.000, 0.000, 0.028"/>
+						<physics override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_c"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_c" old_prefab_name="" mobility="1">
+						<transform position="-4.299, 4.473, 0.000" rotation_euler="0.000, 0.000, -0.168" scale="0.727, 0.727, 0.727"/>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.893, 2.653, 2.324" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.893, 2.675, 2.803" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="shop_sign__f" old_prefab_name="" mobility="1">
+						<transform position="-6.705, 2.518, 3.484" rotation_euler="-0.028, -0.002, -1.539"/>
+						<physics shape="bo_shop_sign_base_b3"/>
+						<components>
+							<meta_mesh_component name="shop_sign_base_b3"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.904, 2.802, 2.587" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.882, 2.491, 2.587" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.887, 2.363, 2.340" rotation_euler="0.000, -1.534, 0.059" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="axe_i" old_prefab_name="" mobility="1">
+						<transform position="-7.906, 2.170, 2.804" rotation_euler="-0.096, -0.603, -1.473" scale="1.807, 1.807, 1.807"/>
+						<components>
+							<meta_mesh_component name="axe_i"/>
+						</components>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="tier3" old_prefab_name="" visible="false" mobility="1">
+				<tags>
+					<tag name="tier3"/>
+				</tags>
+				<transform position="5.215, -0.335, 0.006"/>
+				<children>
+					<game_entity name="aserai_castle_barn_b_l3" old_prefab_name="" mobility="1" occlusion_body_name="bo_occ_aserai_castle_barn_b_l3">
+						<transform position="-1.601, -0.654, 0.044" rotation_euler="0.000, 0.000, -1.607" scale="0.731, 1.000, 0.940"/>
+						<physics shape="bo_aserai_castle_barn_b_l3"/>
+						<occlusion_body_flags>
+							<occlusion_body_flag name="two_sided"/>
+						</occlusion_body_flags>
+						<components>
+							<meta_mesh_component name="aserai_castle_barn_b_l3"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.194, 4.234, 3.473" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_a" old_prefab_name="" mobility="1">
+						<transform position="-4.173, -4.135, -0.006" rotation_euler="0.000, 0.000, -0.897"/>
+						<physics shape="bo_bd_wood_heap_a" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="shop_prop_merchantcarpenter_a" old_prefab_name="" mobility="1">
+						<transform position="1.038, -0.745, -0.006" rotation_euler="0.000, 0.000, -1.577"/>
+						<physics shape="bo_shop_prop_merchantcarpenter_a"/>
+						<components>
+							<meta_mesh_component name="shop_prop_merchantcarpenter_a"/>
+						</components>
+						<scripts>
+							<script name="PE_CraftingStation">
+								<variables>
+									<variable name="StationName" value="Carpenter Bench"/>
+									<variable name="ModuleFolder" value="BW_Module"/>
+									<variable name="Animation" value=""/>
+									<variable name="CraftingRecieptTag" value="bw_woodcutter"/>
+									<variable name="RelevantSkillId" value="Engineering"/>
+									<variable name="Distance" value="3.000"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="bd_log_and_axe" old_prefab_name="" mobility="1">
+						<transform position="0.189, 3.006, 0.031" rotation_euler="0.000, 0.000, -3.021"/>
+						<physics shape="bo_bd_log_and_axe" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_log_and_axe"/>
+						</components>
+					</game_entity>
+					<game_entity name="log_tree_high_group_d" old_prefab_name="" mobility="1">
+						<transform position="-7.466, -1.821, -0.006"/>
+						<physics shape="bo_log_tree_high_group_d"/>
+						<components>
+							<meta_mesh_component name="log_tree_high_group_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_c" old_prefab_name="" mobility="1">
+						<transform position="-0.475, -5.384, -0.006" rotation_euler="0.000, 0.000, 0.028"/>
+						<physics override_material="wood"/>
+						<components>
+							<meta_mesh_component name="bd_wood_c"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_c" old_prefab_name="" mobility="1">
+						<transform position="-1.824, 4.759, -0.006" rotation_euler="0.000, 0.000, -0.168" scale="0.727, 0.727, 0.727"/>
+						<physics shape="bo_bd_wood_heap_c"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_c"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.206, 3.927, 3.473" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.218, 3.949, 3.952" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="shop_sign__f" old_prefab_name="" mobility="1">
+						<transform position="-6.069, 3.682, 4.665" rotation_euler="0.000, 0.000, -1.632"/>
+						<physics shape="bo_shop_sign_base_b3"/>
+						<components>
+							<meta_mesh_component name="shop_sign_base_b3"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.211, 4.076, 3.736" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.218, 3.764, 3.736" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="battania_castle_keep_wood_stake_a" old_prefab_name="" mobility="1">
+						<transform position="-7.228, 3.637, 3.489" rotation_euler="0.000, -1.562, -0.034" scale="0.869, 0.979, 0.060"/>
+						<physics shape="bo_battania_castle_keep_wood_stake_a"/>
+						<components>
+							<meta_mesh_component name="battania_castle_keep_wood_stake_a"/>
+						</components>
+					</game_entity>
+					<game_entity name="axe_i" old_prefab_name="" mobility="1">
+						<transform position="-7.278, 3.447, 3.952" rotation_euler="-0.068, -0.603, -1.566" scale="1.807, 1.807, 1.807"/>
+						<components>
+							<meta_mesh_component name="axe_i"/>
+						</components>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="tier0" old_prefab_name="" mobility="1">
+				<tags>
+					<tag name="tier0"/>
+				</tags>
+				<transform position="3.743, -15.284, 0.186" rotation_euler="0.000, 0.000, 0.000" scale="0.971, 1.101, 1.000"/>
+				<children>
+					<game_entity name="fence_e" old_prefab_name="" mobility="1">
+						<transform position="-0.193, 6.811, -0.058" rotation_euler="0.000, 0.000, 3.123" scale="1.238, 1.264, 1.112"/>
+						<physics shape="bo_fence_e" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="fence_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="fence_e" old_prefab_name="" mobility="1">
+						<transform position="-5.885, 12.918, -0.061" rotation_euler="0.000, 0.000, 1.573" scale="1.541, 1.112, 1.166"/>
+						<physics shape="bo_fence_e" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="fence_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="fence_e" old_prefab_name="" mobility="1">
+						<transform position="5.253, 13.121, -0.064" rotation_euler="0.000, 0.000, -1.605" scale="1.550, 1.112, 1.112"/>
+						<physics shape="bo_fence_e" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="fence_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="fence_e" old_prefab_name="" mobility="1">
+						<transform position="-0.809, 18.907, -0.057" rotation_euler="0.000, 0.000, 0.022" scale="1.341, 1.264, 1.112"/>
+						<physics shape="bo_fence_e" override_material="wood"/>
+						<components>
+							<meta_mesh_component name="fence_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_e" old_prefab_name="" mobility="1">
+						<transform position="4.225, 18.268, -0.186" non_orthogonal_rotation_mat="0.758648, 0.651501, 0.000000, -0.553519, 0.832837, 0.000000, 0.000000, 0.000000, 1.000000" scale="1.102, 1.141, 1.048"/>
+						<physics shape="bo_bd_wood_heap_e"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_e" old_prefab_name="" mobility="1">
+						<transform position="-4.426, 8.133, -0.069" non_orthogonal_rotation_mat="-0.579055, -0.815289, -0.000000, 0.736767, -0.676147, 0.000000, 0.000000, 0.000000, 1.000000" scale="1.137, 1.107, 1.048"/>
+						<physics shape="bo_bd_wood_heap_e"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_e"/>
+						</components>
+					</game_entity>
+					<game_entity name="european_castle_wall_a_damaged_heap_d" old_prefab_name="" mobility="1">
+						<transform position="-3.236, 13.102, -0.009" non_orthogonal_rotation_mat="0.287476, -0.957788, 0.000000, 0.932339, 0.361584, 0.000000, 0.000000, 0.000000, 1.000000" scale="1.123, 1.015, 1.000"/>
+						<physics shape="bo_european_castle_wall_a_damaged_heap_d" override_material="stone"/>
+						<components>
+							<meta_mesh_component name="european_castle_wall_a_damaged_heap_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_d" old_prefab_name="" mobility="1">
+						<transform position="-4.987, 17.667, -0.069" non_orthogonal_rotation_mat="-0.562442, 0.826837, 0.000000, -0.751107, -0.660180, 0.000000, 0.000000, 0.000000, 1.000000" scale="1.088, 1.053, 1.000"/>
+						<physics shape="bo_bd_wood_heap_d"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="bd_wood_heap_d" old_prefab_name="" mobility="1">
+						<transform position="4.370, 7.747, -0.069" non_orthogonal_rotation_mat="0.494285, -0.869300, 0.000000, 0.805879, 0.592080, 0.000000, 0.000000, 0.000000, 1.000000" scale="1.200, 1.139, 1.093"/>
+						<physics shape="bo_bd_wood_heap_d"/>
+						<components>
+							<meta_mesh_component name="bd_wood_heap_d"/>
+						</components>
+					</game_entity>
+					<game_entity name="european_castle_l1_floor_a" old_prefab_name="" mobility="1">
+						<transform position="-0.343, 13.176, -0.186" rotation_euler="0.000, 0.000, 0.000" scale="2.260, 3.842, 1.163"/>
+						<physics shape="bo_european_castle_l1_floor_a"/>
+						<components>
+							<meta_mesh_component name="european_castle_l1_floor_a">
+								<mesh name="european_castle_l1_floor_a.2" material="sand_stone_a"/>
+								<mesh name="european_castle_l1_floor_a.lod3.2" material="sand_stone_a"/>
+							</meta_mesh_component>
+						</components>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="bd_chest_sturgia_a" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="chest"/>
+				</tags>
+				<transform position="-5.333, 4.034, 0.142" rotation_euler="0.000, 0.000, 0.734"/>
+				<physics shape="bo_bd_chest_sturgia_a"/>
+				<components>
+					<meta_mesh_component name="bd_chest_sturgia_a"/>
+				</components>
+				<scripts>
+					<script name="PE_InventoryEntity">
+						<variables>
+							<variable name="InventoryName" value="Chest"/>
+							<variable name="InventoryId" value="o3e9ti8u"/>
+							<variable name="CastleId" value="-1"/>
+							<variable name="Slot" value="150"/>
+							<variable name="StackCount" value="20"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+			</game_entity>
+		</children>
+	</game_entity>
+</prefabs>
+

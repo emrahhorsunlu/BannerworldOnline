@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		
+	</Tier1Items>
+	<Tier2Items>
+		ba_openhelm2*2795*3074|ba_sallet*2795*3074|ba_salletclean*2795*3074|ba_salletpainted*2795*3074|ba_sipahihelmet*2795*3074|ba_opensallet*2995*3294|ba_opensalletclean*2995*3294|ba_turbanhelmet_2*2995*3294|ba_turbanhelmet_2clean*2995*3294|ba_plategauntlet*2620*2882|ba_plategauntletgold*2620*2882|ba_plategauntletworn*2620*2882
+	</Tier2Items>
+	<Tier3Items>
+		ba_closehelm*8880*9768|ba_bolzanogreathelmet*8880*9768|ba_closehelmgold*8880*9768|ba_closehelmworn*8880*9768|ba_closedsallet*8880*9768|ba_closedsalletclean*8880*9768|ba_closedsalletpainted*8880*9768|ba_turban_helmet_1*8880*9768|ba_turban_helmet_1clean*8880*9768|ba_platearmor*14865*16351|ba_platearmor2*14865*16351|ba_platearmor2gold*14865*16351|ba_platearmorgold*14865*16351|ba_platearmor2worn*14865*16351|ba_heraldictabard3*14865*16351|ba_plategreaves*4440*4884|ba_plategreavesgold*4440*4884|ba_plategreavesworn*4440*4884|ba_gorget*6085*6693|ba_gorgetgold*6085*6693|ba_largepauldron*6085*6693|ba_largepauldronclean*6085*6693|ba_knightpad2*6085*6693|ba_knightpad_gold1*6085*6693|ba_knightpadgorget1*6085*6693|ba_knightpadgorget_gold1*6085*6693|ba_knightpadcape3*6085*6693|ba_knightpadcapegold*6085*6693
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+	</CraftingBoxes>
+</Market>

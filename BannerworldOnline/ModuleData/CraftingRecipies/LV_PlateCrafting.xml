@@ -1,0 +1,9 @@
+<Recipies>
+    <Tier1Craftings>
+        10*PE_platearmor2worn*1=pe_velvet*5,pe_thamaskene_steel*10,pe_goldore*1|10*PE_platearmor2*1=pe_velvet*5,pe_thamaskene_steel*10,pe_goldore*1|10*PE_platearmor2gold*1=pe_velvet*5,pe_thamaskene_steel*10,pe_goldore*1|10*PE_platearmor*1=pe_velvet*6,pe_thamaskene_steel*10,pe_goldore*1|10*PE_platearmorgold*1=pe_velvet*6,pe_thamaskene_steel*10,pe_goldore*1|10*PE_plategreavesworn*1=pe_velvet*2,pe_thamaskene_steel*4|10*PE_plategreaves*1=pe_velvet*2,pe_thamaskene_steel*4|10*PE_plategreavesgold*1=pe_velvet*2,pe_thamaskene_steel*4|10*PE_plategauntletworn*1=pe_velvet*3,pe_thamaskene_steel*6|10*PE_plategauntlet*1=pe_velvet*3,pe_thamaskene_steel*6|10*PE_plategauntletgold*1=pe_velvet*3,pe_thamaskene_steel*6|10*PE_gorget*1=pe_velvet*3,pe_thamaskene_steel*6,pe_goldore*1|10*PE_gorgetgold*1=pe_velvet*3,pe_thamaskene_steel*6,pe_goldore*1
+    </Tier1Craftings>
+    <Tier2Craftings>
+    </Tier2Craftings>
+	<Tier3Craftings>
+    </Tier3Craftings>
+</Recipies>

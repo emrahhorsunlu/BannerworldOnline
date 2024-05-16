@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		pe_buildhammer*0*0|PE_fishing_rod*0*0|PE_peasant_pickaxe_1_t1*0*0|PE_peasant_hatchet_1_t1*0*0|PE_peasant_sickle_1_t1*0*0|pe_doctorscalpel*0*0|PE_wooden_2hsword_t1*0*0|PE_practice_spear_t1*0*0|PE_battania_axe_1_t2*0*0|PE_small_spurred_axe_t2*0*0|PE_battania_2haxe_1_t2*0*0|PE_simple_sparth_axe_t2*0*0|PE_highland_spear_t2*0*0|PE_simple_pike_t2*0*0|PE_battania_sword_1_t2*0*0|PE_falchion_sword_t2*0*0|PE_battania_2hsword_1_t2*0*0|PE_bastard_sword_t2*0*0|PE_celtic_dagger*0*0|PE_hooked_cleaver*0*0|PE_battania_mace_1_t2*0*0|PE_battania_mace_2_t2*0*0|PE_hunting_bow*0*0|PE_mountain_hunting_bow*0*0|PE_glen_ranger_bow*0*0|PE_highland_ranger_bow*0*0|PE_vlandic_arrows*0*0|PE_barbed_arrows*0*0
+	</Tier1Items>
+	<Tier2Items>
+		PE_woodland_axe_t3*0*0|PE_tzkurion_axe_t3*0*0|PE_large_franziskaa_axe_t3*0*0|PE_bearded_axe_t3*0*0|PE_highland_spear_3_t3*0*0|PE_northern_spear_2_t3*0*0|PE_triangluar_spear_t3*0*0|PE_military_fork_pike_t3*0*0|PE_battania_sword_2_t3*0*0|PE_battania_sword_3_t3*0*0|PE_star_falchion_sword_t3*0*0|PE_broad_falchion_sword_t3*0*0|PE_short_sword_t3*0*0|PE_narrow_sword_t3*0*0|PE_cleaver_sword_t3*0*0|PE_battania_2hsword_2_t3*0*0|PE_battania_2hsword_3_t3*0*0|PE_cleaver_2hsword_t3*0*0|PE_battania_mace_1_t3*0*0|PE_light_mace_t3*0*0|PE_steel_mace_t3*0*0|PE_morningstar_mace_t3*0*0|PE_composite_bow*0*0|PE_bodkin_arrows_a*0*0|PE_highland_riders_shield*0*0
+	</Tier2Items>
+	<Tier3Items>
+		PE_battania_axe_2_t4*0*0|PE_battle_axe_t4*0*0|PE_battania_axe_3_t5*0*0|PE_highland_spear_4_t4*0*0|PE_wide_leaf_spear_t4*0*0|PE_fine_pike_t4*0*0|PE_thamaskene_pike_t4*0*0|PE_battania_sword_5_t5*0*0|PE_battania_noble_sword_1_t5*0*0|PE_battania_noble_sword_2_t5*0*0|PE_battania_noble_sword_3_t5*0*0|PE_battania_2hsword_4_t4*0*0|PE_battania_2hsword_5_t4*0*0|PE_ridged_2hsword_t4*0*0|PE_war_razor_2hsword_t4*0*0|PE_battania_2hsword_5_t5*0*0|PE_woodland_yew_bow*0*0|PE_woodland_longbow*0*0|PE_noble_bow*0*0|PE_noble_long_bow*0*0|PE_piercing_arrows*0*0|PE_stronger_reinforced_kite_shield*0*0|PE_fortified_kite_shield*0*0
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_weapon_crate_t1*1*1
+	</CraftingBoxes>
+</Market>

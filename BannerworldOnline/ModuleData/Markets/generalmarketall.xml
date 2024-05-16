@@ -1,0 +1,12 @@
+<Market>
+    <Tier1Items>
+        pe_hardwood*55*100|pe_wooden_stick*35*60|pe_wooden_plank*55*100|pe_wool*150*350|pe_merchandise_flax*50*150|pe_linen*50*100|pe_cloth*125*225|pe_velvet*275*475|pe_leather*55*100|pe_hides*50*150|pe_stone*55*100|pe_ironore*55*250|pe_silverore*125*550|pe_goldore*5000*10000|pe_clay*100*400|pe_charcoal*75*155|pe_iron_ingot*180*505|pe_steel_ingot*410*760|pe_thamaskene_steel*715*1520|pe_cart_packed*910*1750|pe_ship_packed*3000*6425|pe_boat_packed*910*1750|pe_ship2_packed*6700*12400|steppe_fur_harness*300*550|stripped_leather_harness*300*550|camel_saddle*1430*2630|northern_noble_harness*1430*2630|battania_horse_harness_scaled*2475*4525|imperial_scale_barding*4000*8325|mail_and_plate_barding*4000*8325|chain_barding*4000*8325
+    </Tier1Items>
+    <Tier2Items>
+    </Tier2Items>
+    <Tier3Items></Tier3Items>
+    <Tier4Items></Tier4Items>
+    <CraftingBoxes>
+        pe_fillt1*1*1
+    </CraftingBoxes>
+</Market>

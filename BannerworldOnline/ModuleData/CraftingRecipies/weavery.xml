@@ -1,0 +1,11 @@
+<Recipies>
+    <Tier1Craftings>
+        1*pe_cloth*2=pe_wool*1|1*pe_cloth*1=pe_linen*2
+    </Tier1Craftings>
+    <Tier2Craftings>
+		2*pe_cloth*5=pe_linen*10|1*pe_velvet*1=pe_cloth*2
+    </Tier2Craftings>
+    <Tier3Craftings>
+        2*pe_velvet*5=pe_cloth*10
+    </Tier3Craftings>
+</Recipies>

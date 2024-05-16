@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		PE_merchants_hat*0*0|PE_half_apron*0*0|PE_leather_apron*0*0|PE_ladys_shoe*0*0|PE_leather_shoes*0*0|PE_ragged_boots*0*0|PE_strapped_shoes*0*0|PE_leather_gloves*0*0|PE_padded_vambrace*0*0|PE_female_hood*0*0|PE_female_scarf*0*0|PE_scarf*0*0|PE_wrapped_scarf*0*0|PE_empire_cape_a*0*0
+	</Tier1Items>
+	<Tier2Items>
+		PE_cloth_apron*0*0|PE_merchants_fur_coat*0*0
+	</Tier2Items>
+	<Tier3Items>
+		
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+	</CraftingBoxes>
+</Market>

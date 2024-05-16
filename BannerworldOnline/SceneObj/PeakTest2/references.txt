@@ -1,0 +1,23 @@
+22
+mesh arrow_new_icon
+mesh bd_chest_sturgia_a
+mesh bd_wood_heap_d
+mesh bd_wood_heap_e
+mesh cave_desert_rock_a
+mesh european_castle_l1_floor_a
+mesh european_castle_wall_a_damaged_heap_d
+mesh fence_e
+mesh flagpole_intro
+mesh icon_camera
+mesh intro_flag
+mesh soft_border_column
+mesh tree_high_d
+mesh vlandia_keep_door_b
+mesh wheats_b
+texture cg_50c_5b
+texture editor_grid_8
+texture editor_grid_8_s
+texture lens_dirt
+texture lens_star
+texture semi_cloudy_2
+texture sun_core2

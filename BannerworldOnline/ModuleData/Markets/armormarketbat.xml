@@ -1,0 +1,15 @@
+<Market>
+    <Tier1Items>
+        PE_wolfhead*400*600|PE_battania_crown*400*600|PE_pilgrim_hood*400*600|PE_aserai_civil_f_cape*400*600|PE_fur_hood*400*600|PE_merchants_hat*400*600|PE_female_hood*400*600|PE_wrapped_scarf*400*600|PE_empire_cape_a*400*600|PE_battania_woodland_cloak*400*600|PE_a_battania_cloak_a*400*600|PE_tundra_tunic*450*700|PE_battania_civil_c*450*700|PE_merchants_fur_coat*450*700|PE_highland_cloth*450*700|PE_cloth_apron*450*700|PE_battania_civil_c*450*700|PE_battania_light_armor_e*450*700|PE_battanian_savage_armor*450*700|PE_rough_tied_bracers*300*400|PE_highland_gloves*300*400|PE_padded_mitten*300*400|PE_guarded_armwraps*300*400|PE_highland_gloves*300*400|PE_leather_boots*300*400|PE_battania_woodland_boots*300*400|PE_battania_leather_boots*300*400|PE_ladys_shoe*300*400
+    </Tier1Items>
+    <Tier2Items>
+        PE_merchants_hat*1200*2400|PE_battania_earmuff_helmet_a_brnz*1200*2400|PE_battania_earmuff_helmet_a*1200*2400|PE_battania_fur_helmet*1200*2400|PE_battania_cloak_furr*1200*2400|PE_desert_scale_shoulders*1200*2400|PE_bearskin*1200*2400|PE_battanian_savage_armor*2500*5000|PE_battania_woodland_chainmail*2500*5000|PE_battanian_chainmail_armor_b*2500*5000|PE_battanian_chainmail_armor_c*2500*5000|PE_battania_noble_bracers*800*1600|PE_mail_cavalier_boots*800*1600|PE_highland_leg_wrappings*800*1600|PE_turndown_leather_boots*800*1600
+    </Tier2Items>
+    <Tier3Items>
+        PE_battania_fur_helmet*3200*4800|PE_battanian_noble_helmet_with_feather*3200*4800|PE_battanian_crowned_helmet*3200*4800|PE_battanian_noble_helmet_with_feather*3200*4800|PE_western_crowned_helmet*3200*4800|PE_lendman_helmet_over_full_mail*3200*4800|PE_fur_cloak_b*3200*4800|PE_fur_cloak_c*3200*4800|PE_battania_warlord_pauldrons*3200*4800|PE_desert_scale_shoulders*3200*4800|PE_battania_noble_armor*7500*15000|PE_battania_mercenary_armor*7500*15000|PE_battania_warlord_armor*7500*15000|PE_battanian_scale_armor_a*7500*15000|PE_battania_warlord_bracers*1600*3200|PE_battania_warlord_boots*1600*3200|PE_strapped_mail_chausses*1600*3200
+    </Tier3Items>
+    <Tier4Items></Tier4Items>
+    <CraftingBoxes>
+        pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+    </CraftingBoxes>
+</Market>

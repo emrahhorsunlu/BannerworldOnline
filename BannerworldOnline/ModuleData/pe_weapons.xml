@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+<Item id="PE_steppe_bow"
+        name="{=steppebowitem}Steppe Bow"
+        body_name="bo_composite_shotbow_g"
+        mesh="shortbow_g"
+        culture="Culture.khuzait"
+        weight="0.3"
+        difficulty="0"
+        appearance="1"
+        Type="Bow"
+        item_holsters="bow_hip:bow_hip_2:bow_back:bow_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="65"
+              speed_rating="86"
+              missile_speed="68"
+              weapon_length="110"
+              accuracy="80"
+              thrust_damage="46"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.1,0,-0.15"
+              modifier_group="bow">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+<Item id="PE_steppe_heavy_bow"
+        name="{=E7miRMw1}Heavy Recurve Bow"
+        body_name="bo_composite_shotbow_b"
+        mesh="shortbow_b"
+        culture="Culture.khuzait"
+        weight="0.3"
+        difficulty="30"
+        appearance="0.4"
+        Type="Bow"
+        item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="80"
+              speed_rating="87"
+              missile_speed="76"
+              weapon_length="106"
+              accuracy="91"
+              thrust_damage="62"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.0,0,-0.1"
+              modifier_group="bow">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="PE_steppe_war_bow"
+        name="{=wfhHGTbl}Steppe War Bow"
+        body_name="bo_composite_shotbow_a"
+        mesh="shortbow_a"
+        culture="Culture.khuzait"
+        weight="0.3"
+        difficulty="50"
+        appearance="0.25"
+        Type="Bow"
+        item_holsters="bow_hip:bow_hip_2:bow_back:bow_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="80"
+              speed_rating="89"
+              missile_speed="80"
+              weapon_length="107"
+              accuracy="95"
+              thrust_damage="66"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.0,0,-0.15"
+              modifier_group="bow">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+</Items>

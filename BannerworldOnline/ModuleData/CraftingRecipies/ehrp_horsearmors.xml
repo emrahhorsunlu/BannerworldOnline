@@ -1,0 +1,9 @@
+<Recipies>
+    <Tier1Craftings>
+        2*steppe_fur_harness*1=pe_linen*3|2*stripped_leather_harness*1=pe_linen*3|2*camel_saddle*1=pe_linen*3,pe_steel_ingot*1|2*northern_noble_harness*1=pe_linen*3,pe_steel_ingot*1|2*battania_horse_harness_scaled*1=pe_cloth*3,pe_steel_ingot*3|2*chain_barding*1=pe_velvet*3,pe_thamaskene_steel*3|2*mail_and_plate_barding*1=pe_velvet*3,pe_thamaskene_steel*3|2*imperial_scale_barding*1=pe_velvet*3,pe_thamaskene_steel*3
+    </Tier1Craftings>
+    <Tier2Craftings>
+    </Tier2Craftings>
+    <Tier3Craftings>
+    </Tier3Craftings>
+</Recipies>

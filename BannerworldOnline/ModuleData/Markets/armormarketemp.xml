@@ -1,0 +1,16 @@
+<Market>
+    <Tier1Items>
+        PE_thinhide_coif*400*600|PE_leather_cap*400*600|PE_empire_crown_north*400*600|PE_leather_studdedhelm*400*600|PE_imperial_cloth_coif*400*600|PE_merchants_hat*400*600|PE_female_hood*400*600|PE_wrapped_scarf*400*600|PE_empire_cape_a*400*600|PE_a_battania_cloak_a*400*600|PE_scarf*400*600|PE_monk_robe*450*700|PE_khuzait_civil_coat*450*700|PE_merchants_fur_coat*450*700|PE_cloth_apron*450*700|PE_nordic_sloven*450*700|PE_leather_coat*450*700|PE_battania_civil_c*450*700|PE_padded_cloth_with_strips*450*700|PE_rough_tied_bracers*300*400|PE_highland_gloves*300*400|PE_padded_mitten*300*400|PE_guarded_armwraps*300*400|PE_leather_gloves*300*400|PE_fine_town_boots*300*400|PE_steppe_leather_boots*300*400|PE_ladys_shoe*300*400|PE_leather_shoes*300*400
+    </Tier1Items>
+    <Tier2Items>
+        PE_roundkettle_over_laced_cloth*1200*2400|PE_nasal_helmet_over_cloth_headwrap*1200*2400|PE_spiked_kettle_over_imperial_mail*1200*2400|PE_roundkettle_over_imperial_leather*1200*2400|PE_empire_plate_armor_shoulder_b*1200*2400|PE_studded_imperial_neckguard*1200*2400|PE_empire_warrior_padded_armor_shoulder*1200*2400|PE_imperial_mail_over_stripped_leather*2500*5000|PE_imperial_lamellar_over_leather*2500*5000|PE_empire_horseman_armor*2500*5000|PE_mail_shirt*2500*5000|PE_mail_mitten*800*1600|PE_mail_cavalier_boots*800*1600|PE_highland_leg_wrappings*800*1600|PE_turndown_leather_boots*800*1600
+
+    </Tier2Items>
+    <Tier3Items>
+        PE_imperial_goggled_helmet*3200*4800|PE_western_crowned_plated_helmet*3200*4800|PE_empire_battle_crown_west*3200*4800|PE_vlandian_faceguard_helmet_a*3200*4800|PE_empire_jewelled_helmet*3200*4800|PE_varangian_bra_scale*3200*4800|PE_pauldron_cape_a*3200*4800|PE_noble_pauldron_with_scarf*3200*4800|PE_aserai_scale_shoulder_e*3200*4800|PE_aserai_scale_shoulder_b*3200*4800|PE_imperial_lamellar*7500*15000|PE_lamellar_with_scale_skirt*7500*15000|PE_imperial_scale_armor*7500*15000|PE_battania_brass_plate_armor*7500*15000|PE_lamellar_plate_gauntlets*1600*3200|PE_decorated_imperial_gauntlets*1600*3200|PE_decorated_imperial_boots*1600*3200|PE_strapped_mail_chausses*1600*3200
+    </Tier3Items>
+    <Tier4Items></Tier4Items>
+    <CraftingBoxes>
+        pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+    </CraftingBoxes>
+</Market>

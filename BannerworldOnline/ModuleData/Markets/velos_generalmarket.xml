@@ -1,0 +1,15 @@
+<Market>
+	<Tier1Items>
+		pe_hardwood*5*10|pe_wooden_stick*3*6|pe_merchandise_flax*6*12|pe_linen*4*8|pe_hides*5*10|pe_wool*5*10|pe_stone*5*10|pe_ironore*10*20|pe_silverore*18*36|pe_clay*5*10|pe_charcoal*12*24|pe_cart_packed*21*42|steppe_fur_harness*26*50
+	</Tier1Items>
+    <Tier2Items>
+        pe_cloth*8*16|pe_iron_ingot*34*68|pe_steel_ingot*116*232
+    </Tier2Items>
+    <Tier3Items>
+        pe_velvet*20*40|pe_leather*22*44|pe_thamaskene_steel*357*714
+    </Tier3Items>
+    <Tier4Items></Tier4Items>
+    <CraftingBoxes>
+        pe_fillt1*1*1
+    </CraftingBoxes>
+</Market>

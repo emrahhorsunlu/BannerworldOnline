@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		PE_pilgrim_hood*0*0|PE_vlandia_bandit_cape_b*0*0|PE_vlandia_bandit_cape_a*0*0|PE_burlap_sack_dress*0*0|PE_tattered_rags*0*0|PE_bandit_leather_water_flask*0*0|PE_bandit_envelope_dress_v2*0*0|PE_bandit_fur_a*0*0|PE_ragged_robes*0*0|PE_vlandia_bandit_c*0*0|PE_torn_bandit_clothes*0*0|PE_bandit_envelope_dress_v1*0*0|PE_bandit_fur_b*0*0|PE_fur_skirt*0*0|PE_fur_waistcoat_over_tunic*0*0|PE_vlandia_bandit_b*0*0
+	</Tier1Items>
+	<Tier2Items>
+		PE_studded_fur_armor*0*0|PE_fur_skirt_with_tunic*0*0|PE_sleeveless_fur_coat*0*0|PE_fur_coat_over_tunic*0*0|PE_bandit_gambeson*0*0|PE_rough_fur_armor*0*0|PE_padded_leather_overcoat*0*0|PE_vlandia_bandit_a*0*0
+	</Tier2Items>
+	<Tier3Items>
+		PE_rough_fur_over_chain*0*0|PE_buckled_wildsman_armor*0*0
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+	</CraftingBoxes>
+</Market>

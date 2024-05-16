@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		PE_nomad_cap*0*0|PE_decorated_nomad_cap*0*0|PE_eastern_cap*0*0|PE_fur_hat*0*0|PE_upturned_fur_cap*0*0|PE_fur_hood*0*0|PE_peaked_fur_hood*0*0|PE_nomad_padded_hood*0*0|PE_steppe_robe*0*0|PE_studded_leather_waistcoat*0*0|PE_khuzait_dress_b*0*0|PE_steppe_dress*0*0|PE_khuzait_belt_leather*0*0|PE_khuzait_curved_boots*0*0|PE_woven_leather_boots*0*0|PE_steppe_leather_boots*0*0|PE_leather_boots*0*0|PE_eastern_wrapped_armguards*0*0|PE_studded_leather_vambraces*0*0|PE_studded_vambraces*0*0|PE_a_brass_lamellar_shoulder_b*0*0|PE_a_leather_lamellar_armor_shoulder_a*0*0|PE_bolted_leather_strips*0*0|PE_steppe_leather_shoulders*0*0|PE_reinforced_suede_shoulders*0*0|PE_a_metal_lamellar_armor_shoulder_a*0*0|PE_a_brass_lamellar_shoulder_a*0*0
+	</Tier1Items>
+	<Tier2Items>
+		PE_khuzait_crown*0*0|PE_plumed_fur_lined_helmet*0*0|PE_nomad_helmet*0*0|PE_plumed_nomad_helmet*0*0|PE_steppe_helmet*0*0|PE_steppe_armor*0*0|PE_khuzait_dress*0*0|PE_khuzait_civil_coat*0*0|PE_khuzait_civil_coat_b*0*0|PE_reinforced_suede_armor*0*0|PE_studded_steppe_leather*0*0|PE_belted_leather_cuirass*0*0|PE_crude_leather_armor*0*0|PE_khuzait_fortified_armor*0*0|PE_khuzait_sturdy_armor*0*0|PE_studded_leather_over_aketon*0*0|PE_eastern_stitched_leather_coat*0*0|PE_leather_lamellar_armor*0*0|PE_khuzait_lamellar_strapped*0*0|PE_eastern_plated_leather_vest*0*0|PE_eastern_leather_boots*0*0|PE_steppe_leather_vambraces*0*0|PE_leather_lamellar_shoulders*0*0|PE_a_khuzait_leather_shoulder_b_b*0*0|PE_brass_lamellar_shoulder*0*0|PE_eastern_studded_shoulders*0*0|PE_a_khuzait_leather_shoulder_b_a*0*0|PE_khuzait_leather_pauldron*0*0|PE_lamellar_shoulders*0*0
+	</Tier2Items>
+	<Tier3Items>
+		PE_plumed_lamellar_helmet*0*0|PE_khuzait_battle_crown*0*0|PE_spiked_helmet_with_facemask*0*0|PE_spiked_helmet*0*0|PE_eastern_vendel_helmet*0*0|PE_khuzait_noble_helmet_with_feathers*0*0|PE_khuzait_noble_helmet_with_fur*0*0|PE_khuzait_noble_helmet_with_neckguard*0*0|PE_eastern_lamellar_armor*0*0|PE_brass_lamellar_over_mail*0*0|PE_eastern_plated_leather*0*0|PE_reinforced_suede_boots*0*0|PE_eastern_plated_leather_vambraces*0*0
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+	</CraftingBoxes>
+</Market>

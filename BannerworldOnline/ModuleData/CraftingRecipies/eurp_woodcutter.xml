@@ -1,0 +1,11 @@
+<Recipies>
+    <Tier1Craftings>
+        2*pe_wooden_plank*2=pe_hardwood*1|3*pe_cart_packed*1=pe_wooden_plank*10,pe_hardwood*2|3*pe_boat_packed*1=pe_wooden_plank*10,pe_hardwood*2|3*pe_carriage_packed*1=pe_wooden_plank*10,pe_hardwood*2
+    </Tier1Craftings>
+    <Tier2Craftings>
+        5*pe_ship_packed*1=pe_wooden_plank*10,pe_hardwood*10,pe_iron_ingot*5,pe_cloth*6|5*pe_mangonel_packed*1=pe_wooden_plank*10,pe_hardwood*10,pe_cloth*10,pe_steel_ingot*5|5*grapeshot_stack*1=pe_stone*2|5*grapeshot_fire_stack*1=pe_stone*2,pe_bd_oil_lamp_for_table*1
+    </Tier2Craftings>
+    <Tier3Craftings>
+        5*pe_ship2_packed*1=pe_wooden_plank*10,pe_hardwood*10,pe_steel_ingot*10,pe_cloth*10|5*pe_onager_packed*1=pe_wooden_plank*10,pe_hardwood*10,pe_cloth*10,pe_thamaskene_steel*5
+    </Tier3Craftings>
+</Recipies>

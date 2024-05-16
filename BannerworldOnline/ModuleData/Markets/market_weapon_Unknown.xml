@@ -1,0 +1,17 @@
+<Market>
+	<Tier1Items>
+		pe_buildhammer*55*100|PE_fishing_rod*270*320|PE_peasant_pickaxe_1_t1*290*360|PE_peasant_hatchet_1_t1*55*100|PE_peasant_sickle_1_t1*55*100|pe_doctorscalpel*1816*2270|PE_wooden_2hsword_t1*1168*1460|PE_practice_spear_t1*1168*1460|PE_small_spurred_axe_t2*2268*2835|PE_simple_sparth_axe_t2*3172*3965|PE_simple_pike_t2*2008*2510|PE_falchion_sword_t2*2268*2835|PE_bastard_sword_t2*3172*3965|PE_vlandic_arrows*1412*1765|PE_barbed_arrows*1412*1765
+	</Tier1Items>
+	<Tier2Items>
+		PE_tzkurion_axe_t3*3680*4600|PE_large_franziskaa_axe_t3*3680*4600|PE_bearded_axe_t3*4992*6240|PE_triangluar_spear_t3*3120*3900|PE_military_fork_pike_t3*3216*4020|PE_star_falchion_sword_t3*3680*4600|PE_broad_falchion_sword_t3*3680*4600|PE_short_sword_t3*3680*4600|PE_narrow_sword_t3*3680*4600|PE_cleaver_sword_t3*3680*4600|PE_cleaver_2hsword_t3*4992*6240|PE_light_mace_t3*4240*5300|PE_steel_mace_t3*4240*5300|PE_morningstar_mace_t3*4240*5300|PE_composite_bow*2824*3530|PE_bodkin_arrows_a*2416*3020
+	</Tier2Items>
+	<Tier3Items>
+		PE_battle_axe_t4*6304*7880|PE_wide_leaf_spear_t4*5136*6420|PE_fine_pike_t4*5232*6540|PE_thamaskene_pike_t4*5232*6540|PE_ridged_2hsword_t4*8832*11040|PE_war_razor_2hsword_t4*8832*11040|PE_noble_bow*4412*5515|PE_noble_long_bow*4412*5515|PE_piercing_arrows*3824*4780|PE_stronger_reinforced_kite_shield*4136*5170|PE_fortified_kite_shield*4136*5170
+	</Tier3Items>
+	<Tier4Items>
+		
+	</Tier4Items>
+	<CraftingBoxes>
+		pe_weapon_crate_t1*1*1
+	</CraftingBoxes>
+</Market>

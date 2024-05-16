@@ -1,0 +1,11 @@
+<Market>
+    <Tier1Items>
+    pe_hardwood*55*100|pe_wooden_stick*35*60|pe_wooden_plank*55*100|pe_wool*150*350|pe_merchandise_flax*50*150|pe_linen*50*100|pe_cloth*125*225|pe_velvet*275*475|pe_leather*55*100|pe_hides*50*150|pe_stone*55*100|pe_ironore*55*250|pe_silverore*125*550|pe_clay*100*400|pe_charcoal*75*155|pe_iron_ingot*180*505|pe_steel_ingot*410*760|pe_thamaskene_steel*715*1520|pe_wheats_a*50*150|pe_fish*50*150|pe_meat_raw*75*200|pe_chicken_raw*200*400|pe_kitchen_basket_grape_b*50*150|pe_foods_cabbage_a*50*150|pe_foods_basket_olive_a*100*250|pe_mi_spice_b*75*175
+    </Tier1Items>
+    <Tier2Items>
+    </Tier2Items>
+    <Tier3Items>
+	</Tier3Items>
+    <Tier4Items>
+	</Tier4Items>
+</Market>

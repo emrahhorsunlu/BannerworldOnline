@@ -1,0 +1,11 @@
+<Recipes>
+  <Tier1Craftings>
+    1*pe_charcoal*2=pe_wooden_stick*3|1*pe_charcoal*2=pe_hardwood*1|1*pe_iron_ingot*1=pe_ironore*1,pe_charcoal*1
+  </Tier1Craftings>
+  <Tier2Craftings>
+    5*pe_charcoal*10=pe_wooden_stick*10|1*pe_charcoal*10=pe_hardwood*5|1*pe_iron_ingot*5=pe_ironore*5,pe_charcoal*2|1*pe_steel_ingot*1=pe_iron_ingot*1,pe_charcoal*1|1*pe_iron_ingot*1=pe_steel_ingot*1,pe_charcoal*1
+  </Tier2Craftings>
+  <Tier3Craftings>
+    10*pe_charcoal*20=pe_wooden_stick*20|10*pe_charcoal*20=pe_hardwood*10|1*pe_steel_ingot*5=pe_iron_ingot*5,pe_charcoal*3|1*pe_thamaskene_steel*1=pe_steel_ingot*1,pe_silverore*1,pe_charcoal*1
+  </Tier3Craftings>
+</Recipes>

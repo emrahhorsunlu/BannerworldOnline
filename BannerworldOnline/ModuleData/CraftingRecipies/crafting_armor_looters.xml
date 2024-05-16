@@ -1,0 +1,11 @@
+<Recipies>
+	<Tier1Craftings>
+		10*PE_vlandia_bandit_cape_b*1=pe_linen*2,pe_iron_ingot*4|10*PE_vlandia_bandit_cape_a*1=pe_linen*2,pe_iron_ingot*4|10*PE_vlandia_bandit_c*1=pe_linen*2,pe_iron_ingot*5|10*PE_burlap_sack_dress*1=pe_linen*5|10*PE_tattered_rags*1=pe_linen*5|10*PE_bandit_envelope_dress_v2*1=pe_linen*5|10*PE_ragged_robes*1=pe_linen*5|10*PE_bandit_leather_water_flask*1=pe_linen*5|10*PE_vlandia_bandit_b*1=pe_linen*2,pe_iron_ingot*5|10*PE_bandit_envelope_dress_v1*1=pe_linen*5|10*PE_fur_skirt*1=pe_linen*2,pe_iron_ingot*5|10*PE_torn_bandit_clothes*1=pe_linen*5|10*PE_fur_waistcoat_over_tunic*1=pe_linen*2,pe_iron_ingot*5
+	</Tier1Craftings>
+	<Tier2Craftings>
+		10*PE_fur_skirt_with_tunic*1=pe_cloth*2,pe_steel_ingot*5|10*PE_bandit_fur_b*1=pe_cloth*5|10*PE_bandit_fur_a*1=pe_cloth*5|10*PE_studded_fur_armor*1=pe_cloth*3,pe_steel_ingot*6|10*PE_sleeveless_fur_coat*1=pe_cloth*3,pe_steel_ingot*6|10*PE_fur_coat_over_tunic*1=pe_cloth*3,pe_steel_ingot*6|10*PE_vlandia_bandit_a*1=pe_cloth*3,pe_steel_ingot*6|10*PE_padded_leather_overcoat*1=pe_cloth*3,pe_steel_ingot*6|10*PE_rough_fur_armor*1=pe_cloth*3,pe_steel_ingot*6|10*PE_bandit_gambeson*1=pe_cloth*5
+	</Tier2Craftings>
+	<Tier3Craftings>
+		10*PE_buckled_wildsman_armor*1=pe_velvet*4,pe_steel_ingot*7|10*PE_rough_fur_over_chain*1=pe_velvet*4,pe_thamaskene_steel*8
+	</Tier3Craftings>
+</Recipies>

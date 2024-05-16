@@ -1,0 +1,535 @@
+<prefabs>
+	<game_entity name="kp_temple_aserai" old_prefab_name="">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<children>
+			<game_entity name="aserai_courtyard_flowerpot_a" old_prefab_name="">
+				<transform position="5.892, 2.653, -1.634"/>
+				<physics shape="bo_aserai_courtyard_flowerpot_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_flowerpot_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_fountain_a" old_prefab_name="">
+				<transform position="6.122, -7.745, -1.722"/>
+				<physics shape="bo_aserai_courtyard_fountain_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_fountain_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="9.987, 0.021, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="10.029, 5.075, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="9.983, 9.918, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="2.348, -0.057, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="2.453, 4.952, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="2.432, 9.904, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_flowerpot_a" old_prefab_name="">
+				<transform position="5.892, 7.472, -1.634"/>
+				<physics shape="bo_aserai_courtyard_flowerpot_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_flowerpot_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="15.012, 2.696, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="15.012, 8.071, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="15.012, 13.387, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_keep_column_a" old_prefab_name="">
+				<transform position="10.199, 16.432, -1.634"/>
+				<physics shape="bo_aserai_keep_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_keep_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_keep_column_a" old_prefab_name="">
+				<transform position="2.629, 16.187, -1.634"/>
+				<physics shape="bo_aserai_keep_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_keep_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="14.902, 2.830, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.694, 0.694, 0.694"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="14.902, 7.994, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.692, 0.692, 0.692"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="14.902, 13.271, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.686, 0.686, 0.686"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="empire_statue_plinth_b" old_prefab_name="">
+				<transform position="6.921, 26.610, -1.967" rotation_euler="0.000, 0.000, -3.136" scale="2.573, 2.573, 2.573"/>
+				<physics shape="bo_empire_statue_plinth_b"/>
+				<components>
+					<meta_mesh_component name="empire_statue_plinth_b">
+						<mesh name="empire_statue_plinth_b.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b.lod5.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod5.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b.lod4.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod4.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod5" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod4" material="adobe_wall_relief"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_statue_plinth_d" old_prefab_name="">
+				<transform position="16.408, 8.224, -3.313"/>
+				<physics shape="bo_empire_statue_plinth_d"/>
+				<components>
+					<meta_mesh_component name="empire_statue_plinth_d">
+						<mesh name="empire_statue_plinth_d.9" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_d.12" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_d.18" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_d.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_d.lod5.9" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_d.lod5.18" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_d.lod5.22" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_d.lod4.9" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_d.lod4.12" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_d.lod4.18" material="adobe_wall_relief"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_statue_horse" old_prefab_name="">
+				<transform position="16.472, 8.429, -0.055" rotation_euler="0.000, 0.000, -3.130"/>
+				<physics shape="bo_empire_statue_horse" override_material="stone"/>
+				<components>
+					<meta_mesh_component name="empire_statue_horse">
+						<mesh name="empire_statue_horse" material="physically_based_bronze"/>
+						<mesh name="empire_statue_horse.lod3" material="physically_based_bronze"/>
+						<mesh name="empire_statue_horse.lod4" material="physically_based_bronze"/>
+						<mesh name="empire_statue_horse.lod5" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="dry_tree_a" old_prefab_name="">
+				<transform position="6.809, 26.553, 2.344" rotation_euler="0.000, 0.000, -0.579"/>
+				<physics shape="bo_dry_tree_a" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="dry_tree_a">
+						<mesh name="dry_tree_a" material="physically_based_bronze"/>
+						<mesh name="dry_tree_a.lod2" material="physically_based_bronze"/>
+						<mesh name="dry_tree_a.lod3" material="physically_based_bronze"/>
+						<mesh name="dry_tree_a.lod4" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="emp_tree_floor_a" old_prefab_name="">
+				<transform position="6.879, 26.596, 2.031" rotation_euler="0.000, 0.000, 0.000" scale="0.565, 0.565, 0.565"/>
+				<physics shape="bo_emp_tree_floor_a"/>
+				<components>
+					<meta_mesh_component name="emp_tree_floor_a">
+						<mesh name="emp_tree_floor_a.1" material="physically_based_bronze"/>
+						<mesh name="emp_tree_floor_a.13" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="-2.188, 2.866, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.694, 0.694, 0.694"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="-2.188, 7.994, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.692, 0.692, 0.692"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="-2.502, 2.696, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="-2.502, 8.071, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_a" old_prefab_name="">
+				<transform position="-2.502, 13.387, -1.634"/>
+				<physics shape="bo_aserai_courtyard_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_floor_b" old_prefab_name="">
+				<transform position="-2.188, 13.097, -1.634" rotation_euler="0.000, 0.000, 0.000" scale="0.686, 0.686, 0.686"/>
+				<physics shape="bo_aserai_grandbazaar_floor_b"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_floor_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_flowerpot_a" old_prefab_name="">
+				<transform position="5.892, 13.136, -1.634"/>
+				<physics shape="bo_aserai_courtyard_flowerpot_a"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_flowerpot_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="empire_statue_plinth_b" old_prefab_name="">
+				<transform position="-4.234, 7.953, -1.576"/>
+				<physics shape="bo_empire_statue_plinth_b"/>
+				<components>
+					<meta_mesh_component name="empire_statue_plinth_b">
+						<mesh name="empire_statue_plinth_b.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b.lod5.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod5.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b.lod4.12" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod4.22" material="stone_wall_desert_a"/>
+						<mesh name="empire_statue_plinth_b" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod5" material="adobe_wall_relief"/>
+						<mesh name="empire_statue_plinth_b.lod4" material="adobe_wall_relief"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="bd_battania_statue_boudica" old_prefab_name="">
+				<transform position="-4.327, 7.945, 0.035" rotation_euler="0.000, 0.000, 1.571"/>
+				<physics shape="bo_bd_battania_statue_boudica" override_material="stone"/>
+				<components>
+					<meta_mesh_component name="bd_battania_statue_boudica">
+						<mesh name="bd_battania_statue_boudica.0" material="physically_based_bronze"/>
+						<mesh name="bd_battania_statue_boudica.1" material="physically_based_bronze"/>
+						<mesh name="bd_battania_statue_boudica.2" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_railing" old_prefab_name="">
+				<transform position="-2.544, 15.703, -1.576"/>
+				<physics shape="bo_aserai_courtyard_railing"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_railing"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_railing" old_prefab_name="">
+				<transform position="-2.415, 0.232, -1.576"/>
+				<physics shape="bo_aserai_courtyard_railing"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_railing"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_railing" old_prefab_name="">
+				<transform position="15.055, 0.190, -1.576"/>
+				<physics shape="bo_aserai_courtyard_railing"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_railing"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_courtyard_railing" old_prefab_name="">
+				<transform position="15.039, 15.858, -1.576"/>
+				<physics shape="bo_aserai_courtyard_railing"/>
+				<components>
+					<meta_mesh_component name="aserai_courtyard_railing"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="17.645, 3.148, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="17.645, 8.128, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="17.645, 12.862, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="-4.965, 8.128, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="-4.965, 12.862, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_grandbazaar_wall" old_prefab_name="" occlusion_body_name="bo_occ_aserai_grandbazaar_wall">
+				<transform position="-4.965, 3.148, -0.985" rotation_euler="0.000, 0.000, 0.000" scale="0.014, 1.000, 1.000"/>
+				<physics shape="bo_aserai_grandbazaar_wall"/>
+				<components>
+					<meta_mesh_component name="aserai_grandbazaar_wall"/>
+				</components>
+			</game_entity>
+			<game_entity name="empire_hippodrome_enterance_wall_corner" old_prefab_name="" occlusion_body_name="bo_occ_empire_hippodrome_enterance_wall_corner">
+				<transform position="14.617, 26.334, -0.999" rotation_euler="0.000, 0.000, 0.523"/>
+				<physics shape="bo_empire_hippodrome_enterance_wall_corner"/>
+				<components>
+					<meta_mesh_component name="empire_hippodrome_enterance_wall_corner">
+						<mesh name="empire_hippodrome_enterance_wall_corner.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.1" material="stone_wall_new_a"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_hippodrome_enterance_wall_corner" old_prefab_name="" occlusion_body_name="bo_occ_empire_hippodrome_enterance_wall_corner">
+				<transform position="5.542, 33.501, -1.634" rotation_euler="0.000, 0.000, 0.043" scale="1.252, 1.252, 1.252"/>
+				<physics shape="bo_empire_hippodrome_enterance_wall_corner"/>
+				<components>
+					<meta_mesh_component name="empire_hippodrome_enterance_wall_corner">
+						<mesh name="empire_hippodrome_enterance_wall_corner.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.1" material="stone_wall_new_a"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_hippodrome_enterance_wall_corner" old_prefab_name="" occlusion_body_name="bo_occ_empire_hippodrome_enterance_wall_corner">
+				<transform position="-1.970, 25.571, -1.045" rotation_euler="0.000, 0.000, -0.614"/>
+				<physics shape="bo_empire_hippodrome_enterance_wall_corner"/>
+				<components>
+					<meta_mesh_component name="empire_hippodrome_enterance_wall_corner">
+						<mesh name="empire_hippodrome_enterance_wall_corner.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.1" material="stone_wall_new_a"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_hippodrome_enterance_wall_corner" old_prefab_name="" occlusion_body_name="bo_occ_empire_hippodrome_enterance_wall_corner">
+				<transform position="7.032, 33.567, -1.634" rotation_euler="0.000, 0.000, 0.043" scale="1.252, 1.252, 1.252"/>
+				<physics shape="bo_empire_hippodrome_enterance_wall_corner"/>
+				<components>
+					<meta_mesh_component name="empire_hippodrome_enterance_wall_corner">
+						<mesh name="empire_hippodrome_enterance_wall_corner.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod3.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.1" material="stone_wall_new_a"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod4.2" material="stone_wall_new_a_noalpha"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.0" material="adobe_wall_1"/>
+						<mesh name="empire_hippodrome_enterance_wall_corner.lod5.1" material="stone_wall_new_a"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="9.987, -14.874, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="2.385, -14.874, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="14.867, -7.595, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="aserai_castle_keep_a_l3_interior_column_a" old_prefab_name="">
+				<transform position="-2.261, -7.595, -1.634"/>
+				<physics shape="bo_aserai_castle_keep_a_l3_interior_column_a"/>
+				<components>
+					<meta_mesh_component name="aserai_castle_keep_a_l3_interior_column_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="arena_arabian_wall_a" old_prefab_name="" occlusion_body_name="bo_occ_arena_arabian_wall_a">
+				<transform position="-3.910, 20.633, -3.892" rotation_euler="0.000, 0.000, 1.283" scale="1.000, 0.303, 1.000"/>
+				<physics shape="bo_arena_arabian_wall_a"/>
+				<components>
+					<meta_mesh_component name="arena_arabian_wall_a">
+						<mesh name="arena_arabian_wall_a.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+					</meta_mesh_component>
+				</components>
+				<scripts>
+					<script name="mesh_bender">
+						<variables>
+							<variable name="Bend Amount" value="15.000000"/>
+							<variable name="Bend Center Ratio" value="0.500000"/>
+						</variables>
+					</script>
+				</scripts>
+			</game_entity>
+			<game_entity name="arena_arabian_wall_a" old_prefab_name="" occlusion_body_name="bo_occ_arena_arabian_wall_a">
+				<transform position="0.981, 29.437, -3.892" rotation_euler="0.000, 0.000, 0.811" scale="1.000, 0.303, 1.000"/>
+				<physics shape="bo_arena_arabian_wall_a"/>
+				<components>
+					<meta_mesh_component name="arena_arabian_wall_a">
+						<mesh name="arena_arabian_wall_a.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+					</meta_mesh_component>
+				</components>
+				<scripts>
+					<script name="mesh_bender">
+						<variables>
+							<variable name="Bend Amount" value="15.000000"/>
+							<variable name="Bend Center Ratio" value="0.500000"/>
+						</variables>
+					</script>
+				</scripts>
+			</game_entity>
+			<game_entity name="arena_arabian_wall_a" old_prefab_name="" occlusion_body_name="bo_occ_arena_arabian_wall_a">
+				<transform position="10.820, 30.455, -3.892" rotation_euler="0.000, 0.000, -0.811" scale="1.000, 0.303, 1.000"/>
+				<physics shape="bo_arena_arabian_wall_a"/>
+				<components>
+					<meta_mesh_component name="arena_arabian_wall_a">
+						<mesh name="arena_arabian_wall_a.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+					</meta_mesh_component>
+				</components>
+				<scripts>
+					<script name="mesh_bender">
+						<variables>
+							<variable name="Bend Amount" value="15.000000"/>
+							<variable name="Bend Center Ratio" value="0.500000"/>
+						</variables>
+					</script>
+				</scripts>
+			</game_entity>
+			<game_entity name="arena_arabian_wall_a" old_prefab_name="" occlusion_body_name="bo_occ_arena_arabian_wall_a">
+				<transform position="16.167, 21.542, -3.892" rotation_euler="0.000, 0.000, -1.283" scale="1.000, 0.303, 1.000"/>
+				<physics shape="bo_arena_arabian_wall_a"/>
+				<components>
+					<meta_mesh_component name="arena_arabian_wall_a">
+						<mesh name="arena_arabian_wall_a.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.0" material="adobe_wall_1" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.1" material="stone_wall_new_a" argument2="-5.003, 6.005, 0.501, 0.174"/>
+						<mesh name="arena_arabian_wall_a.lod4.2" material="stone_wall_new_a_noalpha" argument2="-5.003, 6.005, 0.501, 0.174"/>
+					</meta_mesh_component>
+				</components>
+				<scripts>
+					<script name="mesh_bender">
+						<variables>
+							<variable name="Bend Amount" value="15.000000"/>
+							<variable name="Bend Center Ratio" value="0.500000"/>
+						</variables>
+					</script>
+				</scripts>
+			</game_entity>
+		</children>
+	</game_entity>
+</prefabs>
+

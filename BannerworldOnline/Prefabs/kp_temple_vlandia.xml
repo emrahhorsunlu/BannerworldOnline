@@ -1,0 +1,2085 @@
+<prefabs>
+	<game_entity name="kp_temple_vlandia" old_prefab_name="">
+		<transform position="0.000, 0.000, 0.000" rotation_euler="0.000, 0.000, 0.000"/>
+		<children>
+			<game_entity name="module_european_floor_a" old_prefab_name="">
+				<transform position="0.590, 7.333, -0.123" rotation_euler="0.000, 0.000, 1.571" scale="0.923, 0.923, 0.923"/>
+				<physics shape="bo_module_european_floor_a"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="0.591, 13.312, -5.341" rotation_euler="0.000, 0.000, 0.000" scale="1.000, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_a" old_prefab_name="">
+				<transform position="0.590, -1.994, -0.123" rotation_euler="0.000, 0.000, 1.571" scale="0.510, 0.923, 0.923"/>
+				<physics shape="bo_module_european_floor_a"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="-3.641, 9.344, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="1.000, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="4.858, 9.357, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="1.000, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="4.858, -3.219, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="0.676, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="4.858, 2.396, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="0.691, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="-3.628, 2.396, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="0.691, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="-3.628, -3.267, -5.341" rotation_euler="0.000, 0.000, 1.571" scale="0.676, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_dungeon_door_a_opened" old_prefab_name="">
+				<transform position="0.578, -5.302, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_vlandia_dungeon_door_a_opened"/>
+				<components>
+					<meta_mesh_component name="vlandia_dungeon_door_a_opened"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_arena_tower" old_prefab_name="" occlusion_body_name="bo_occ_vlandia_arena_tower">
+				<transform position="3.668, -6.291, -3.538" rotation_euler="0.000, 0.000, -3.142" scale="0.596, 0.596, 0.596"/>
+				<physics shape="bo_vlandia_arena_tower"/>
+				<components>
+					<meta_mesh_component name="vlandia_arena_tower"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_arena_tower" old_prefab_name="" occlusion_body_name="bo_occ_vlandia_arena_tower">
+				<transform position="-2.372, -6.293, -3.538" rotation_euler="0.000, 0.000, -3.142" scale="0.596, 0.596, 0.596"/>
+				<physics shape="bo_vlandia_arena_tower"/>
+				<components>
+					<meta_mesh_component name="vlandia_arena_tower"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_dungeon_door_a_empty" old_prefab_name="">
+				<transform position="0.777, 13.238, 3.753"/>
+				<physics shape="bo_vlandia_dungeon_door_a_empty"/>
+				<components>
+					<meta_mesh_component name="vlandia_dungeon_door_a_empty"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_house_rooftop_end" old_prefab_name="">
+				<transform position="-4.293, -0.307, -1.179" rotation_euler="0.000, 0.000, 0.000" scale="0.800, 0.950, 0.800"/>
+				<physics shape="bo_module_european_house_rooftop_end"/>
+				<components>
+					<meta_mesh_component name="module_european_house_rooftop_end"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_house_rooftop_end" old_prefab_name="">
+				<transform position="-4.293, 8.767, -1.179" rotation_euler="0.000, 0.000, 0.000" scale="0.800, 0.950, 0.800"/>
+				<physics shape="bo_module_european_house_rooftop_end"/>
+				<components>
+					<meta_mesh_component name="module_european_house_rooftop_end"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_house_rooftop_end" old_prefab_name="">
+				<transform position="5.498, -0.981, -1.179" rotation_euler="0.000, 0.000, -3.142" scale="0.800, 0.950, 0.800"/>
+				<physics shape="bo_module_european_house_rooftop_end"/>
+				<components>
+					<meta_mesh_component name="module_european_house_rooftop_end"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_house_rooftop_end" old_prefab_name="">
+				<transform position="5.498, 8.311, -1.179" rotation_euler="0.000, 0.000, -3.142" scale="0.800, 0.950, 0.800"/>
+				<physics shape="bo_module_european_house_rooftop_end"/>
+				<components>
+					<meta_mesh_component name="module_european_house_rooftop_end"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="5.036, -5.190, 4.472" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="2.094, -5.190, 7.977" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-1.041, 13.229, 7.897" rotation_euler="0.000, -0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-3.837, 13.233, 4.565" rotation_euler="0.000, -0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="0.634, -2.865, 9.387" rotation_euler="0.000, 0.000, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="0.634, 1.989, 9.387" rotation_euler="0.000, 0.000, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="0.634, 7.031, 9.387" rotation_euler="0.000, 0.000, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="0.634, 10.827, 9.387" rotation_euler="0.000, 0.000, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.328, 13.642, 5.121" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-0.562, 13.328, 7.384" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="1.570, 13.625, 7.334" rotation_euler="-0.709, -1.561, 1.558" scale="1.000, 0.605, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="3.244, 13.584, 5.399" rotation_euler="-0.709, -1.561, 1.558" scale="0.970, 0.570, 0.970"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="2.661, 13.531, 2.585" rotation_euler="1.571, -3.142, -3.142" scale="0.276, 1.003, 1.003"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-3.837, 13.496, 4.565" rotation_euler="0.000, -0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-1.041, 13.471, 7.897" rotation_euler="0.000, -0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-0.562, 13.652, 7.201" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="2.004, 13.474, 7.957" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="2.004, 13.197, 7.951" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="5.245, 13.197, 4.112" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="5.245, 13.496, 4.112" rotation_euler="0.000, 0.873, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-1.085, 13.185, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="0.591, 13.123, -5.341" rotation_euler="0.000, 0.000, 0.000" scale="1.000, 0.600, 1.000"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="2.479, 13.179, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-0.562, 13.145, 7.001" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.856, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.314, 13.155, 5.121" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="1.528, 13.127, 7.186" rotation_euler="-0.709, -1.561, 1.558" scale="1.000, 0.573, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="3.286, 13.157, 5.131" rotation_euler="-0.709, -1.561, 1.558" scale="1.000, 0.601, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="2.480, 13.573, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-1.414, 13.574, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-1.300, -4.957, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.200, -5.007, 5.121" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="3.267, -4.986, 5.131" rotation_euler="-0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="1.642, -5.016, 7.186" rotation_euler="-0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="2.504, -4.957, 4.886" rotation_euler="1.571, -3.142, -3.142" scale="0.344, 1.000, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-0.448, -4.988, 7.201" rotation_euler="0.709, -1.561, 1.558" scale="1.000, 0.753, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_house_rooftop_end" old_prefab_name="">
+				<transform position="0.504, -7.703, 2.893" rotation_euler="0.000, 0.000, 1.554" scale="0.294, 0.294, 0.294"/>
+				<physics shape="bo_module_european_house_rooftop_end"/>
+				<components>
+					<meta_mesh_component name="module_european_house_rooftop_end"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="1.948, -5.095, 5.454" rotation_euler="0.000, -3.142, 0.000" scale="0.309, 0.186, 0.309"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="-0.562, -5.095, 5.454" rotation_euler="0.000, -3.142, 0.000" scale="0.309, 0.186, 0.309"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="1.948, -5.432, 5.454" rotation_euler="0.000, -3.142, 0.000" scale="0.309, 0.186, 0.309"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_grandbazaar_big_wall_b" old_prefab_name="">
+				<transform position="-0.562, -5.437, 5.454" rotation_euler="0.000, -3.142, 0.000" scale="0.309, 0.186, 0.309"/>
+				<physics shape="bo_vlandia_grandbazaar_big_wall_b"/>
+				<components>
+					<meta_mesh_component name="vlandia_grandbazaar_big_wall_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_g" old_prefab_name="">
+				<transform position="-1.508, 12.945, 3.641"/>
+				<physics shape="bo_module_european_floor_g"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_g"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_g" old_prefab_name="">
+				<transform position="-1.508, 13.023, 3.624"/>
+				<physics shape="bo_module_european_floor_g"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_g"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="3.094, 13.460, 3.519" rotation_euler="0.000, 0.000, 0.000" scale="1.050, 1.000, 1.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-2.168, 13.449, 3.527" rotation_euler="0.000, 0.000, 0.000" scale="1.050, 1.000, 1.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="-2.168, 13.016, 3.471" rotation_euler="0.000, 0.000, 0.000" scale="1.050, 1.000, 1.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="3.094, 13.027, 3.462" rotation_euler="0.000, 0.000, 0.000" scale="1.050, 1.000, 1.000"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_e" old_prefab_name="">
+				<transform position="0.800, -5.008, 7.015"/>
+				<physics shape="bo_wooden_platform_plank_e"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_e"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.728, -4.933, -2.101"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="1.995, -4.933, -2.006"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.728, -4.933, 3.113"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="1.995, -4.933, 3.063"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="0.708, -5.990, 7.035"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.524, -6.014, 10.390" rotation_euler="0.000, 1.571, 0.000" scale="1.000, 1.000, 0.505"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_b" old_prefab_name="">
+				<transform position="0.727, -6.135, 6.884"/>
+				<physics shape="bo_wooden_platform_plank_a"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_b" old_prefab_name="">
+				<transform position="0.911, -5.815, 6.968"/>
+				<physics shape="bo_wooden_platform_plank_a"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_b" old_prefab_name="">
+				<transform position="0.713, -5.606, 7.024"/>
+				<physics shape="bo_wooden_platform_plank_a"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_b" old_prefab_name="">
+				<transform position="0.483, -5.412, 7.115"/>
+				<physics shape="bo_wooden_platform_plank_a"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-3.445, -2.786, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-3.445, 2.472, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-3.445, 7.768, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-3.436, -7.446, 3.567" rotation_euler="0.000, 1.571, 1.571" scale="1.000, 1.000, 0.884"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="4.684, -7.446, 3.567" rotation_euler="0.000, 1.571, 1.571" scale="1.000, 1.000, 0.884"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="4.675, 2.472, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="4.675, -2.786, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="4.675, 7.768, 3.587" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="0.750, 12.704, 3.587" rotation_euler="0.000, 1.571, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-4.417, 12.704, 3.587" rotation_euler="0.000, 1.571, 0.000"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="empire_statue_plinth_d" old_prefab_name="">
+				<transform position="0.783, 11.840, -1.318" rotation_euler="0.000, 0.000, 1.571" scale="0.856, 0.856, 0.856"/>
+				<physics shape="bo_empire_statue_plinth_d"/>
+				<components>
+					<meta_mesh_component name="empire_statue_plinth_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="0.775, 11.883, 1.525" rotation_euler="0.000, 0.000, 0.000" scale="0.480, 0.480, 0.480"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column">
+						<mesh name="wooden_platform_plank_f_column.0" material="physically_based_bronze"/>
+						<mesh name="wooden_platform_plank_f_column.1" material="physically_based_bronze"/>
+						<mesh name="wooden_platform_plank_f_column.lod3" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.413, 11.875, 2.870" rotation_euler="0.000, 1.571, 0.000" scale="0.477, 0.477, 0.477"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column">
+						<mesh name="wooden_platform_plank_f_column.0" material="physically_based_bronze"/>
+						<mesh name="wooden_platform_plank_f_column.1" material="physically_based_bronze"/>
+						<mesh name="wooden_platform_plank_f_column.lod3" material="physically_based_bronze"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="3.236, 1.953, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="3.236, 4.696, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="-2.050, -0.807, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="-2.050, 4.696, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="-2.050, 1.953, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="vlandia_arena_main_building_lords_platform" old_prefab_name="">
+				<transform position="0.567, 11.752, 0.000"/>
+				<physics shape="bo_vlandia_arena_main_building_lords_platform" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="vlandia_arena_main_building_lords_platform"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_arena_main_building_lords_platform" old_prefab_name="">
+				<transform position="0.567, 10.163, 0.000"/>
+				<physics shape="bo_vlandia_arena_main_building_lords_platform" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="vlandia_arena_main_building_lords_platform"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.687, -1.581, 1.023" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-1.818, -1.575, 1.023" rotation_euler="0.000, 1.571, 1.571"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.032, -3.959, 3.229" rotation_euler="0.000, 0.000, 0.000" scale="0.589, 0.997, 0.997"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.032, -2.559, 3.229" rotation_euler="0.000, 0.000, 0.000" scale="0.589, 0.997, 0.997"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="tavern_aserai_panel_b" old_prefab_name="">
+				<transform position="-2.035, -3.239, 0.562"/>
+				<physics shape="bo_tavern_aserai_panel_b"/>
+				<components>
+					<meta_mesh_component name="tavern_aserai_panel_b"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-0.976, -3.412, 1.043" rotation_euler="0.000, 1.571, 1.571" scale="1.021, 0.417, 1.021"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.593, -1.388, -1.533"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.614, -3.274, -1.590"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.601, -5.436, 3.419" rotation_euler="0.000, 1.571, 1.571" scale="1.000, 1.000, 0.808"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-4.656, -1.432, 3.419" rotation_euler="0.000, 1.571, 0.000" scale="1.000, 1.000, 0.808"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-3.097, -3.412, 1.043" rotation_euler="0.000, 1.571, 1.571" scale="1.021, 0.417, 1.021"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.048, -3.412, -1.888" rotation_euler="0.000, 1.571, 1.571" scale="1.021, 0.465, 1.021"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.048, -3.412, 3.190" rotation_euler="0.000, 1.571, 1.571" scale="0.106, 0.459, 1.009"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="curtain_battania_bed_corner_back_a" old_prefab_name="">
+				<transform position="-0.515, -2.279, -0.106"/>
+				<components>
+					<meta_mesh_component name="curtain_battania_bed_corner_back_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="curtain_battania_bed_corner_front_c" old_prefab_name="">
+				<transform position="-0.369, -4.128, -0.172" rotation_euler="0.000, 0.000, 1.528"/>
+				<components>
+					<meta_mesh_component name="curtain_battania_bed_corner_front_c"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.728, -4.684, -1.628"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.625, -1.642, -1.628"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.625, -1.877, -1.628"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="wooden_platform_plank_f_column" old_prefab_name="">
+				<transform position="-0.728, -4.406, -1.628"/>
+				<physics shape="bo_wooden_platform_plank_f_column"/>
+				<components>
+					<meta_mesh_component name="wooden_platform_plank_f_column"/>
+				</components>
+			</game_entity>
+			<game_entity name="pe_bd_chair_b_01" old_prefab_name="" mobility="1">
+				<tags>
+					<tag name="npc_wait"/>
+					<tag name="npc_common"/>
+				</tags>
+				<transform position="-2.928, -2.325, 0.000" rotation_euler="0.000, 0.000, 1.638"/>
+				<physics shape="bo_bd_chair_b" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="bd_chair_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="0.086, -0.602, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_left" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="0.715, 0.017, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_left"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_left"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_right" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="-0.636, 0.018, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_right"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_right"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_b_01" old_prefab_name="" mobility="1">
+				<tags>
+					<tag name="npc_wait"/>
+					<tag name="npc_common"/>
+				</tags>
+				<transform position="-2.934, -4.162, 0.000" rotation_euler="0.000, 0.000, 1.638"/>
+				<physics shape="bo_bd_chair_b" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="bd_chair_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="0.086, -0.602, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_left" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="0.715, 0.017, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_left"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_left"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_right" old_prefab_name="" mobility="1">
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<tags>
+							<tag name="alternative"/>
+						</tags>
+						<transform position="-0.636, 0.018, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.750, 0.750, 1.000"/>
+						<components>
+							<meta_mesh_component name="animation_stand_arrow_blue"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_right"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_right"/>
+									<variable name="GroupId" value="1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="pe_bd_chair_khuzait_lord_b" old_prefab_name="" mobility="1">
+				<flags>
+					<flag name="record_to_scene_replay" value="true"/>
+				</flags>
+				<tags>
+					<tag name="npc_common"/>
+					<tag name="npc_wait"/>
+				</tags>
+				<transform position="3.260, -0.807, 0.000" rotation_euler="0.000, 0.000, -3.142"/>
+				<physics shape="bo_bd_chair_khuzait_lord_b" override_material="fabric"/>
+				<components>
+					<meta_mesh_component name="bd_chair_khuzait_lord_b"/>
+				</components>
+				<scripts>
+					<script name="PE_Chair">
+						<variables>
+							<variable name="ChairType" value="Chair"/>
+							<variable name="PilotStandingPointTag" value="Pilot"/>
+							<variable name="AmmoPickUpTag" value="ammopickup"/>
+							<variable name="WaitStandingPointTag" value="Wait"/>
+							<variable name="NavMeshPrefabName" value=""/>
+						</variables>
+					</script>
+				</scripts>
+				<children>
+					<game_entity name="pe_chair_sit_position_front_right" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="-0.410, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+					<game_entity name="pe_chair_sit_position_front_left" old_prefab_name="" mobility="1">
+						<flags>
+							<flag name="record_to_scene_replay" value="true"/>
+						</flags>
+						<visibility_masks>
+							<visibility_mask name="visible_only_when_editing" value="true"/>
+						</visibility_masks>
+						<transform position="0.484, -0.648, 0.000" rotation_euler="0.000, 0.000, 3.141" scale="0.500, 0.500, 0.100"/>
+						<components>
+							<meta_mesh_component name="sp_cube"/>
+						</components>
+						<scripts>
+							<script name="PE_ChairUsePoint">
+								<variables>
+									<variable name="NearTable" value="false"/>
+									<variable name="NearTableLoopAction" value=""/>
+									<variable name="NearTablePairLoopAction" value=""/>
+									<variable name="Drink" value="false"/>
+									<variable name="DrinkLoopAction" value=""/>
+									<variable name="DrinkPairLoopAction" value=""/>
+									<variable name="DrinkRightHandItem" value=""/>
+									<variable name="DrinkLeftHandItem" value=""/>
+									<variable name="Eat" value="false"/>
+									<variable name="EatLoopAction" value=""/>
+									<variable name="EatPairLoopAction" value=""/>
+									<variable name="EatRightHandItem" value=""/>
+									<variable name="EatLeftHandItem" value=""/>
+									<variable name="ArriveAction" value="act_sit_down_from_front"/>
+									<variable name="LoopStartAction" value="act_sit_1"/>
+									<variable name="PairLoopStartAction" value=""/>
+									<variable name="LeaveAction" value="act_stand_up_to_front"/>
+									<variable name="GroupId" value="-1"/>
+									<variable name="RightHandItem" value=""/>
+									<variable name="RightHandItemBone" value="ItemR"/>
+									<variable name="LeftHandItem" value=""/>
+									<variable name="LeftHandItemBone" value="ItemL"/>
+									<variable name="MinUserToStartInteraction" value="1"/>
+									<variable name="ActivatePairs" value="false"/>
+									<variable name="MinWaitinSeconds" value="50.000"/>
+									<variable name="MaxWaitInSeconds" value="320.000"/>
+									<variable name="ForwardDistanceToPivotPoint" value="0.000"/>
+									<variable name="SideDistanceToPivotPoint" value="0.000"/>
+									<variable name="KeepOldVisibility" value="false"/>
+									<variable name="AutoSheathWeapons" value="false"/>
+									<variable name="AutoEquipWeaponsOnUseStopped" value="false"/>
+									<variable name="AutoWieldWeapons" value="false"/>
+									<variable name="TranslateUser" value="true"/>
+									<variable name="HasRecentlyBeenRechecked" value="false"/>
+									<variable name="NavMeshPrefabName" value=""/>
+								</variables>
+							</script>
+						</scripts>
+					</game_entity>
+				</children>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, -3.745, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, -1.001, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, 1.690, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, 4.427, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, 7.148, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="0.616, 9.853, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="-1.322, 8.768, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="2.579, 8.768, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="2.579, 11.470, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="mat_carpet_g" old_prefab_name="">
+				<transform position="-1.322, 11.465, 0.000" rotation_euler="0.000, 0.000, 1.568" scale="0.600, 0.600, 0.600"/>
+				<physics override_material="straw"/>
+				<components>
+					<meta_mesh_component name="mat_carpet_g">
+						<mesh name="mat_carpet_g.12" material="crown_red"/>
+						<mesh name="mat_carpet_g.lod2.12" material="crown_red"/>
+					</meta_mesh_component>
+				</components>
+			</game_entity>
+			<game_entity name="empire_tablecloth_a" old_prefab_name="">
+				<transform position="0.112, 11.361, 1.490" rotation_euler="0.000, 0.000, -1.756"/>
+				<components>
+					<meta_mesh_component name="empire_tablecloth_a"/>
+				</components>
+			</game_entity>
+			<game_entity name="tavern_vlandia_table_c" old_prefab_name="">
+				<transform position="1.231, 9.250, 0.276" rotation_euler="0.000, 0.000, 0.000" scale="0.819, 0.819, 0.819"/>
+				<physics shape="bo_tavern_vlandia_table_c"/>
+				<components>
+					<meta_mesh_component name="tavern_vlandia_table_c"/>
+				</components>
+			</game_entity>
+			<game_entity name="tavern_vlandia_table_c" old_prefab_name="">
+				<transform position="0.101, 9.386, 0.276" rotation_euler="0.000, 0.000, -1.571" scale="0.819, 0.819, 0.819"/>
+				<physics shape="bo_tavern_vlandia_table_c"/>
+				<components>
+					<meta_mesh_component name="tavern_vlandia_table_c"/>
+				</components>
+			</game_entity>
+			<game_entity name="vlandia_arena_main_building_lords_platform" old_prefab_name="">
+				<transform position="0.721, 9.543, -0.015" rotation_euler="0.000, 0.000, 0.000" scale="0.531, 1.000, 1.000"/>
+				<physics shape="bo_vlandia_arena_main_building_lords_platform" override_material="wood"/>
+				<components>
+					<meta_mesh_component name="vlandia_arena_main_building_lords_platform"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="-2.234, 13.185, 4.401" rotation_euler="1.571, -3.142, -3.142" scale="0.163, 0.640, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="module_european_floor_d" old_prefab_name="">
+				<transform position="3.387, 13.174, 4.401" rotation_euler="1.571, -3.142, -3.142" scale="0.163, 0.640, 1.000"/>
+				<physics shape="bo_module_european_floor_d"/>
+				<components>
+					<meta_mesh_component name="module_european_floor_d"/>
+				</components>
+			</game_entity>
+			<game_entity name="european_castle_stairs_c_l2" old_prefab_name="">
+				<transform position="0.527, -6.752, -1.679" rotation_euler="0.000, 0.000, 0.000" scale="1.417, 1.000, 1.000"/>
+				<physics shape="bo_european_castle_stairs_c_l2">
+					<body_flags>
+						<body_flag name="has_steps"/>
+					</body_flags>
+				</physics>
+				<components>
+					<meta_mesh_component name="european_castle_stairs_c_l2"/>
+				</components>
+			</game_entity>
+		</children>
+	</game_entity>
+</prefabs>
+

@@ -1,0 +1,11 @@
+<Recipies>
+    <Tier1Craftings>
+        1*pe_kitchen_food_bread_a*3=pe_merchandise_flour*1|1*pe_pie_fruit*3=pe_merchandise_flour*1,pe_kitchen_basket_grape_b*1|1*pe_pizza*2=pe_merchandise_flour*1,pe_meat_raw*1,pe_spice_sack*1|1*pe_pie_meat*3=pe_merchandise_flour*1,pe_meat_raw*1|1*pe_meat_cooked*1=pe_meat_raw*1|1*pe_chicken_roast*1=pe_chicken_raw*1|1*pe_fish_cooked*1=pe_fish*1
+    </Tier1Craftings>
+    <Tier2Craftings>
+
+    </Tier2Craftings>
+    <Tier3Craftings>
+
+    </Tier3Craftings>
+</Recipies>

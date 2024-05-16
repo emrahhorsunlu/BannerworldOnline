@@ -1,0 +1,15 @@
+<Market>
+    <Tier1Items>
+        PE_northern_fur_cap*400*600|PE_nordic_fur_cap*400*600|PE_nordic_leather_cap*400*600|PE_vlandia_crown*400*600|PE_wolfhead*400*600|PE_merchants_hat*400*600|PE_female_hood*400*600|PE_wrapped_scarf*400*600|PE_empire_cape_a*400*600|PE_a_battania_cloak_a*400*600|PE_battania_civil_cloak*400*600|PE_fur_trimmed_short_tunic*450*700|PE_khuzait_civil_coat*450*700|PE_merchants_fur_coat*450*700|PE_bandit_fur_b*450*700|PE_cloth_apron*450*700|PE_battania_civil_c*450*700|PE_studded_leather_coat*450*700|PE_stitched_leather_vest*450*700|PE_rough_tied_bracers*300*400|PE_highland_gloves*300*400|PE_padded_mitten*300*400|PE_guarded_armwraps*300*400|PE_leather_gloves*300*400|PE_leather_boots*300*400|PE_battania_woodland_boots*300*400|PE_battania_leather_boots*300*400|PE_ladys_shoe*300*400
+    </Tier1Items>
+    <Tier2Items>
+        PE_bearhead*1200*2400|PE_segmented_cervelliere_over_mail*1200*2400|PE_nasalhelm_over_leather*1200*2400|PE_cervelliere_over_laced_coif*1200*2400|PE_bearskin*1200*2400|PE_rough_bearskin*1200*2400|PE_wolf_shoulder*1200*2400|PE_sturgian_lamellar_gambeson_heavy*2500*5000|PE_decorated_nordic_hauberk*2500*5000|PE_sturgian_chainmale_shortsleeve*2500*5000|PE_mail_shirt*2500*5000|PE_northern_plated_gloves*800*1600|PE_mail_cavalier_boots*800*1600|PE_highland_leg_wrappings*800*1600|PE_turndown_leather_boots*800*1600
+    </Tier2Items>
+    <Tier3Items>
+        PE_lendman_helmet_over_full_mail*3200*4800|PE_sturgian_helmet_b_close*3200*4800|PE_closed_goggled_helmet*3200*4800|PE_nordic_helmet*3200*4800|PE_sturgian_battle_crown*3200*4800|PE_fur_cloak_a*3200*4800|PE_fur_cloak_c*3200*4800|PE_desert_scale_shoulders*3200*4800|PE_a_aserai_scale_b_shoulder_a*3200*4800|PE_pauldron_cape_a*3200*4800|PE_sturgian_fortified_armor*7500*15000|PE_northern_brass_lamellar_over_mail*7500*15000|PE_sturgia_cavalry_armor*7500*15000|PE_northern_coat_of_plates*7500*15000|PE_reinforced_mail_mitten*1600*3200|PE_northern_plated_boots*1600*3200|PE_strapped_mail_chausses*1600*3200
+    </Tier3Items>
+    <Tier4Items></Tier4Items>
+    <CraftingBoxes>
+        pe_armor_crate_t1*1*1|pe_armor_crate_t2*2*2|pe_armor_crate_t3*3*3
+    </CraftingBoxes>
+</Market>
