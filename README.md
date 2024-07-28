@@ -28,6 +28,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3051799181
 ## Discord Community
 https://discord.gg/bannerworld-online-sonkale-921763252696907816
 
+## Youtube
+https://www.youtube.com/@bannerworld.online
+
 ## Patreon
 https://www.patreon.com/BannerworldRolePlay
 
